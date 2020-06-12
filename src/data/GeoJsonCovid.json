@@ -1,0 +1,46 @@
+{
+    "data": [
+      {"type": "Feature",
+        "properties": {
+          "penyakit": "Covid",
+          "lokasi": "Surabaya",
+          "sumber": [
+              {
+                  "nama": "Kompas5",
+                  "link": "https://www.kompas.com/tren/read/2020/04/28/172650765/waspada-ada-49563-kasus-demam-berdarah-di-indonesia-selama-2020",
+                  "judul": "Waspada, Ada 49.563 Kasus Demam Berdarah di Indonesia Selama 2020"
+              },
+              {
+                  "nama": "Tribun6",
+                  "link": "https://www.tribunnews.com/nasional/2020/04/23/45266-kasus-demam-berdarah-di-indonesia-angka-kematian-paling-banyak-di-ntt",
+                  "judul": "45.266 Kasus Demam Berdarah di Indonesia, Angka Kematian Paling Banyak di NTT"
+              }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [103.564180, -1.913548]
+      }},
+      {"type": "Feature",
+        "properties": {
+          "penyakit": "Covid",
+          "lokasi": "Surabaya",
+          "sumber": [
+              {
+                  "nama": "Kompas5",
+                  "link": "https://www.kompas.com/tren/read/2020/04/28/172650765/waspada-ada-49563-kasus-demam-berdarah-di-indonesia-selama-2020",
+                  "judul": "Waspada, Ada 49.563 Kasus Demam Berdarah di Indonesia Selama 2020"
+              },
+              {
+                  "nama": "Tribun6",
+                  "link": "https://www.tribunnews.com/nasional/2020/04/23/45266-kasus-demam-berdarah-di-indonesia-angka-kematian-paling-banyak-di-ntt",
+                  "judul": "45.266 Kasus Demam Berdarah di Indonesia, Angka Kematian Paling Banyak di NTT"
+              }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [106.4294553, -6.05021]
+      }}
+    ]
+}
