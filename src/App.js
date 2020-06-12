@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
 import './App.css';
-import data_dbd from './data/tweets_geojson_dbd.json';
-import data_covid from './data/tweets_geojson_covid.json';
-import data_hepatitis_a from './data/tweets_geojson_hepatitis_a.json';
-import data_hepatitis_b from './data/tweets_geojson_hepatitis_b.json';
-import data_malaria from './data/tweets_geojson_malaria.json';
-import data_difteri from './data/tweets_geojson_difteri.json';
-import data_kusta from './data/tweets_geojson_kusta.json';
-import data_rabies from './data/tweets_geojson_rabies.json';
-import data_pneumonia from './data/tweets_geojson_pneumonia.json';
-import data_leptospirosis from './data/tweets_geojson_leptospirosis.json';
-import data_filariasis from './data/tweets_geojson_filariasis.json';
+import data_dbd from './data/geojson_dbd.json';
+import data_covid from './data/geojson_covid.json';
+import data_hepatitis_a from './data/geojson_hepatitis_a.json';
+import data_hepatitis_b from './data/geojson_hepatitis_b.json';
+import data_malaria from './data/geojson_malaria.json';
+import data_difteri from './data/geojson_difteri.json';
+import data_kusta from './data/geojson_kusta.json';
+import data_rabies from './data/geojson_rabies.json';
+import data_pneumonia from './data/geojson_pneumonia.json';
+import data_leptospirosis from './data/geojson_leptospirosis.json';
+import data_filariasis from './data/geojson_filariasis.json';
 
 let L = window.L;
 let map = window.map;
