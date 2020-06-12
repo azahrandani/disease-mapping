@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/disease-mapping/static/css/main.da26eb76.chunk.css",
-    "main.js": "/disease-mapping/static/js/main.85564163.chunk.js",
-    "main.js.map": "/disease-mapping/static/js/main.85564163.chunk.js.map",
+    "main.js": "/disease-mapping/static/js/main.5bc4269d.chunk.js",
+    "main.js.map": "/disease-mapping/static/js/main.5bc4269d.chunk.js.map",
     "runtime-main.js": "/disease-mapping/static/js/runtime-main.1424efcd.js",
     "runtime-main.js.map": "/disease-mapping/static/js/runtime-main.1424efcd.js.map",
     "static/js/2.60a48946.chunk.js": "/disease-mapping/static/js/2.60a48946.chunk.js",
     "static/js/2.60a48946.chunk.js.map": "/disease-mapping/static/js/2.60a48946.chunk.js.map",
     "index.html": "/disease-mapping/index.html",
-    "precache-manifest.92eacd00ad4bb5f9af536c396dee6c55.js": "/disease-mapping/precache-manifest.92eacd00ad4bb5f9af536c396dee6c55.js",
+    "precache-manifest.ad92e6f99e48a4b13bb7985f7facdd0a.js": "/disease-mapping/precache-manifest.ad92e6f99e48a4b13bb7985f7facdd0a.js",
     "service-worker.js": "/disease-mapping/service-worker.js",
     "static/css/main.da26eb76.chunk.css.map": "/disease-mapping/static/css/main.da26eb76.chunk.css.map",
     "static/js/2.60a48946.chunk.js.LICENSE.txt": "/disease-mapping/static/js/2.60a48946.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1424efcd.js",
     "static/js/2.60a48946.chunk.js",
     "static/css/main.da26eb76.chunk.css",
-    "static/js/main.85564163.chunk.js"
+    "static/js/main.5bc4269d.chunk.js"
   ]
 }
