@@ -40,7 +40,7 @@ class App extends Component {
 
   initializeMap = (disease) => {
 
-    var positionCenter = L.latLng(-1.959678, 122.214959);
+    var positionCenter = L.latLng(-1.637444, 117.286060);
 
     if (map) map.remove();
     
@@ -166,16 +166,16 @@ class App extends Component {
         });
 
         var popup = L.DomUtil.create('div', 'infoWindow');
-        popup.innerHTML = "<div> <b>" + feature.properties.penyakit + " - " + feature.properties.lokasi + "</b></br>"
+        popup.innerHTML = "<div> <b>" + feature.properties.penyakit + " - " + feature.properties.lokasi + "</b><ul>"
         var sumbers = feature.properties.sumber;
         for (var i in sumbers) {
-          var openLink = "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"" + sumbers[i]['link'] + "\">";
+          var openLink = "<li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"" + sumbers[i]['link'] + "\">";
           var title = sumbers[i]['judul'] + " - " + sumbers[i]['nama'];
-          var closeLink = "</a></br>";
+          var closeLink = "</a></li>";
           var fullLink = openLink + title + closeLink;
           popup.innerHTML += fullLink;
         }
-        popup.innerHTML += "</div>";
+        popup.innerHTML += "</ul></div>";
         popup.addEventListener('mouseover', function(e) {
           window.hovering = true
         });

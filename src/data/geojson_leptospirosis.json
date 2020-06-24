@@ -1,1 +1,2672 @@
-{"data": [{"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Ngampilan", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/1142499/dinkes-waspadai-leptospirosis-saat-pancaroba-selain-db-di-yogyakarta", "judul": "Dinkes: Waspadai leptospirosis saat pancaroba selain DB di Yogyakarta "}, {"nama": "Antara News", "link": "https://www.antaranews.com/berita/1142499/dinkes-waspadai-leptospirosis-saat-pancaroba-selain-db-di-yogyakarta", "judul": "Dinkes: Waspadai leptospirosis saat pancaroba selain DB di Yogyakarta "}]}, "geometry": {"type": "Point", "coordinates": ["110.357615196016", "-7.80218335"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Yogyakarta", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/1142499/dinkes-waspadai-leptospirosis-saat-pancaroba-selain-db-di-yogyakarta", "judul": "Dinkes: Waspadai leptospirosis saat pancaroba selain DB di Yogyakarta "}, {"nama": "Antara News", "link": "https://www.antaranews.com/berita/1142499/dinkes-waspadai-leptospirosis-saat-pancaroba-selain-db-di-yogyakarta", "judul": "Dinkes: Waspadai leptospirosis saat pancaroba selain DB di Yogyakarta "}, {"nama": "Tempo", "link": "https://nasional.tempo.co/read/527373/yogya-waspadai-penyebaran-leptospirosis", "judul": " Yogya Waspadai Penyebaran Leptospirosis "}, {"nama": "Tempo", "link": "https://koran.tempo.co/read/395923/dinas-kesehatan-temukan-5-kasus-leptospirosis", "judul": "Dinas Kesehatan Temukan 5 Kasus Leptospirosis - Berita Utama-Jateng - koran.temp..."}, {"nama": "Tribun", "link": "http://www.tribunnews.com/regional/2018/03/22/13-orang-di-diy-meninggal-dunia-karena-leptospirosis?page=2", "judul": "13 Orang di DIY Meninggal Dunia karena Leptospirosis"}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1094147816832679940", "judul": "Dari ketiga orang tersebut, masing-masing penderita berada di Kabupaten Sleman, ..."}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1093143036173869057", "judul": "Menurut berita dari koran Tribun Jogja, 4 Februari 2019, diketahui ada tiga oran..."}, {"nama": "Twitter", "link": "https://twitter.com/1481352673/status/1199306094788526081", "judul": "5 Orang Meninggal karena Kencing Tikus di Yogyakarta"}]}, "geometry": {"type": "Point", "coordinates": ["110.364917", "-7.8011945"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Gorontalo", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/116695/sejumlah-warga-mulai-diserang-leptospirosis-pasca-banjir", "judul": "Sejumlah Warga Mulai Diserang Leptospirosis Pasca Banjir "}]}, "geometry": {"type": "Point", "coordinates": ["122.4555927", "0.7186174"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Depok", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/53743/tiga-korban-banjir-meninggal-akibat-leptospirosis", "judul": "Tiga Korban Banjir Meninggal Akibat Leptospirosis "}, {"nama": "Merdeka", "link": "https://www.merdeka.com/peristiwa/1-warga-sleman-meninggal-dunia-akibat-penyakit-leptospirosis.html", "judul": "1 Warga Sleman Meninggal Dunia Akibat Penyakit Leptospirosis"}, {"nama": "Antara News", "link": "https://www.antaranews.com/berita/1265065/satu-warga-sleman-meninggal-akibat-leptospirosis", "judul": "Satu warga Sleman meninggal akibat leptospirosis "}]}, "geometry": {"type": "Point", "coordinates": ["106.8138131", "-6.4074657"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Bekasi", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/53743/tiga-korban-banjir-meninggal-akibat-leptospirosis", "judul": "Tiga Korban Banjir Meninggal Akibat Leptospirosis "}]}, "geometry": {"type": "Point", "coordinates": ["106.9945444", "-6.2349858"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Tangerang", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/53743/tiga-korban-banjir-meninggal-akibat-leptospirosis", "judul": "Tiga Korban Banjir Meninggal Akibat Leptospirosis "}]}, "geometry": {"type": "Point", "coordinates": ["106.6384468", "-6.1760311"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Dki Jakarta", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/53743/tiga-korban-banjir-meninggal-akibat-leptospirosis", "judul": "Tiga Korban Banjir Meninggal Akibat Leptospirosis "}, {"nama": "Kompas", "link": "https://ekonomi.kompas.com/read/2015/01/31/100000923/Hati-hati.Terkena.Kencing.Tikus.Saat.Banjir", "judul": "Hati-hati Terkena Kencing Tikus Saat Banjir"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search", "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search", "judul": "Apa Itu Leptospirosis? Penyakit\u00a0yang Menghantui saat Musim Hujan"}, {"nama": "Tempo", "link": "https://koran.tempo.co/read/395923/dinas-kesehatan-temukan-5-kasus-leptospirosis", "judul": "Dinas Kesehatan Temukan 5 Kasus Leptospirosis - Berita Utama-Jateng - koran.temp..."}, {"nama": "Tribun", "link": "https://www.tribunnews.com/kesehatan/2015/02/01/bahaya-kencing-tikus-kalau-bercampur-dengan-genangan-air-hujan", "judul": "Bahaya Kencing Tikus Kalau Bercampur dengan Genangan Air Hujan"}]}, "geometry": {"type": "Point", "coordinates": ["106.827183", "-6.1753942"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Sewon", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/577286/dinkes-tiga-warga-bantul-meninggal-akibat-leptospirosis", "judul": "Dinkes : tiga warga Bantul meninggal akibat leptospirosis "}]}, "geometry": {"type": "Point", "coordinates": ["110.352462957987", "-7.85615635"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Pandak", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/577286/dinkes-tiga-warga-bantul-meninggal-akibat-leptospirosis", "judul": "Dinkes : tiga warga Bantul meninggal akibat leptospirosis "}]}, "geometry": {"type": "Point", "coordinates": ["110.287135191449", "-7.92410645"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Gondangrejo", "sumber": [{"nama": "Kompas", "link": "https://regional.kompas.com/read/2020/02/05/23033651/sejak-januari-2020-5-warga-karanganyar-meninggal-karena-leptospirosis", "judul": "Sejak Januari 2020, 5 Warga Karanganyar Meninggal karena Leptospirosis"}]}, "geometry": {"type": "Point", "coordinates": ["110.2133447", "-7.4447802"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Kebakkramat", "sumber": [{"nama": "Kompas", "link": "https://regional.kompas.com/read/2020/02/05/23033651/sejak-januari-2020-5-warga-karanganyar-meninggal-karena-leptospirosis", "judul": "Sejak Januari 2020, 5 Warga Karanganyar Meninggal karena Leptospirosis"}]}, "geometry": {"type": "Point", "coordinates": ["110.9021249", "-7.528492"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Colomadu", "sumber": [{"nama": "Kompas", "link": "https://regional.kompas.com/read/2020/02/05/23033651/sejak-januari-2020-5-warga-karanganyar-meninggal-karena-leptospirosis", "judul": "Sejak Januari 2020, 5 Warga Karanganyar Meninggal karena Leptospirosis"}, {"nama": "Kompas", "link": "https://regional.kompas.com/read/2020/02/05/23033651/sejak-januari-2020-5-warga-karanganyar-meninggal-karena-leptospirosis", "judul": "Sejak Januari 2020, 5 Warga Karanganyar Meninggal karena Leptospirosis"}, {"nama": "Suara", "link": "https://www.suara.com/partner/content/solopos/2020/02/12/152722/colomadu-jadi-fokus-menekan-angka-leptospirosis-di-karanganyar", "judul": "Colomadu Jadi Fokus Menekan Angka Leptospirosis di Karanganyar"}]}, "geometry": {"type": "Point", "coordinates": ["110.750289024338", "-7.5314625"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Tasikmadu", "sumber": [{"nama": "Kompas", "link": "https://regional.kompas.com/read/2020/02/05/23033651/sejak-januari-2020-5-warga-karanganyar-meninggal-karena-leptospirosis", "judul": "Sejak Januari 2020, 5 Warga Karanganyar Meninggal karena Leptospirosis"}]}, "geometry": {"type": "Point", "coordinates": ["109.8341161", "-7.7061456"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Bantul", "sumber": [{"nama": "Kompas", "link": "https://ekonomi.kompas.com/read/2011/06/22/22313462/112.Warga.Bantul.Terkena.Leptospirosis", "judul": "112 Warga Bantul Terkena Leptospirosis"}, {"nama": "Kompas", "link": "https://ekonomi.kompas.com/read/2011/03/09/11252233/diy.waspadai.leptospirosis.", "judul": "DIY Waspadai Leptospirosis "}, {"nama": "Tempo", "link": "https://koran.tempo.co/read/225158/bantul-dinyatakan-klb-leptospirosis", "judul": "Bantul Dinyatakan KLB Leptospirosis - Berita Utama-Jateng - koran.tempo.co"}, {"nama": "Tirto", "link": "https://tirto.id/ahok-akan-basmi-tikus-tikus-jakarta-bVKh", "judul": "Ahok Akan Basmi Tikus-tikus Jakarta"}, {"nama": "Tribun", "link": "http://www.tribunnews.com/regional/2018/03/22/13-orang-di-diy-meninggal-dunia-karena-leptospirosis?page=2", "judul": "13 Orang di DIY Meninggal Dunia karena Leptospirosis"}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1094147818384646145", "judul": "Selain itu, ada 186 kasus leptospirosis. Bantul dan Sleman menjadi kawasan yang ..."}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1094147816832679940", "judul": "Dari ketiga orang tersebut, masing-masing penderita berada di Kabupaten Sleman, ..."}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1093143196639494144", "judul": "Tahun 2018 kemarin, jumlah penderita leptospirosis cukup mengejutkan. Ada 16 ora..."}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1093143036173869057", "judul": "Menurut berita dari koran Tribun Jogja, 4 Februari 2019, diketahui ada tiga oran..."}]}, "geometry": {"type": "Point", "coordinates": ["110.385553358986", "-7.89825435"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Gunung Kidul", "sumber": [{"nama": "Kompas", "link": "https://regional.kompas.com/read/2008/05/10/10005178/tak.ada.serangan.leptospirosis.di.gunung.kidul", "judul": "Tak Ada Serangan Leptospirosis di Gunung Kidul"}, {"nama": "Kumparan", "link": "https://kumparan.com/tugujogja/wisatawan-dihimbau-waspadai-tikus-leptospirosis-di-pantai-gunungkidul-1541343608201721210", "judul": "Wisatawan Dihimbau Waspadai Tikus Leptospirosis di Pantai Gunungkidul - kumparan..."}, {"nama": "Medcom", "link": "https://nusantara.medcom.id/jawa-tengah/peristiwa/aNrJlg6N-warga-gunungkidul-diajak-menangkap-tikus", "judul": "Warga Gunungkidul Diajak Menangkap Tikus"}, {"nama": "Medcom", "link": "https://nusantara.medcom.id/jawa-tengah/peristiwa/GNlGpymK-10-warga-gunungkidul-diduga-meninggal-akibat-leptospirosis", "judul": "10 Warga Gunungkidul Diduga Meninggal Akibat Leptospirosis"}, {"nama": "Merdeka", "link": "https://www.merdeka.com/peristiwa/34-warga-gunungkidul-terkena-leptospirosis-1-tewas.html", "judul": "34 Warga Gunungkidul terkena leptospirosis, 1 tewas"}, {"nama": "Tempo", "link": "https://video.tempo.co/read/6282/sepuluh-warga-gunungkidul-meninggal-karena-leptospirosis", "judul": " Sepuluh Warga Gunungkidul Meninggal Karena Leptospirosis "}, {"nama": "Tribun", "link": "http://www.tribunnews.com/regional/2018/03/22/13-orang-di-diy-meninggal-dunia-karena-leptospirosis?page=2", "judul": "13 Orang di DIY Meninggal Dunia karena Leptospirosis"}]}, "geometry": {"type": "Point", "coordinates": ["112.1982", "-8.1674"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Kulon Progo", "sumber": [{"nama": "Kompas", "link": "https://ekonomi.kompas.com/read/2011/03/09/11252233/diy.waspadai.leptospirosis.", "judul": "DIY Waspadai Leptospirosis "}, {"nama": "Liputan6", "link": "https://www.liputan6.com/regional/read/2982909/hati-hati-leptospirosis-mulai-serang-warga-gunung?source=search", "judul": "Hati-Hati, Leptospirosis Mulai Serang Warga Gunung"}, {"nama": "Tempo", "link": "https://koran.tempo.co/read/228020/kulon-progo-menuju-klb-leptospirosis", "judul": "Kulon Progo Menuju KLB Leptospirosis - Berita Utama-Jateng - koran.tempo.co"}, {"nama": "Tribun", "link": "http://www.tribunnews.com/regional/2018/03/22/13-orang-di-diy-meninggal-dunia-karena-leptospirosis?page=2", "judul": "13 Orang di DIY Meninggal Dunia karena Leptospirosis"}, {"nama": "Tribun", "link": "https://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis", "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"}, {"nama": "Tribun", "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all", "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"}, {"nama": "Twitter", "link": "https://twitter.com/159450635/status/1117383765305597953", "judul": "Kasus Leptospirosis di Kulon Progo Tewaskan 2 Orang -"}, {"nama": "Twitter", "link": "https://twitter.com/118371948/status/1116960470903078912", "judul": "Leptospirosis di Kulonprogo: 11 Kasus, Dua Meninggal Dunia"}, {"nama": "Twitter", "link": "https://twitter.com/241547550/status/1116963286916972544", "judul": "Harian_Jogja \"Leptospirosis di Kulonprogo: 11 Kasus, Dua Meninggal Dunia"}]}, "geometry": {"type": "Point", "coordinates": ["110.14798278892", "-7.8123076"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Tarakan", "sumber": [{"nama": "Kompas", "link": "https://ekonomi.kompas.com/read/2008/02/20/21475127/satu.pasien.leptospirosis.meninggal", "judul": "Satu Pasien Leptospirosis Meninggal"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3895314/headline-mewaspadai-jejak-kencing-tikus-penyebab-klb-leptospirosis?source=search", "judul": "HEADLINE: Mewaspadai Jejak Kencing Tikus Penyebab KLB Leptospirosis"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search", "judul": "Apa Itu Leptospirosis? Penyakit\u00a0yang Menghantui saat Musim Hujan"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3893686/kasus-leptospirosis-hantui-8-provinsi-di-indonesia?source=search", "judul": "Kasus Leptospirosis Hantui 8 Provinsi di Indonesia"}, {"nama": "Tempo", "link": "https://koran.tempo.co/read/156072/lagi-leptospirosis-makan-korban", "judul": "Lagi, Leptospirosis Makan Korban - Metro - koran.tempo.co"}, {"nama": "Tempo", "link": "https://majalah.tempo.co/read/kesehatan/89527/gara-gara-tikus-kencing-di-musim-banjir&user=register", "judul": "Gara-gara Tikus Kencing di Musim Banjir - Kesehatan - majalah.tempo.co"}, {"nama": "Antara News", "link": "https://www.antaranews.com/berita/54879/pasien-leptospirosis-di-rsud-tarakan-mencapai-90-orang", "judul": "Pasien Leptospirosis di RSUD Tarakan Mencapai 90 Orang "}, {"nama": "Antara News", "link": "https://www.antaranews.com/berita/53792/dua-lagi-pasien-leptospirosis-rsud-tarakan-meninggal", "judul": "Dua Lagi Pasien Leptospirosis RSUD Tarakan Meninggal "}]}, "geometry": {"type": "Point", "coordinates": ["117.598628074404", "3.3416343"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Jakarta Barat", "sumber": [{"nama": "Kompas", "link": "https://megapolitan.kompas.com/read/2016/10/19/18220301/penyakit.karena.kencing.tikus.terbanyak.ditemukan.di.jakarta.barat", "judul": "Penyakit karena Kencing Tikus Terbanyak Ditemukan di Jakarta Barat"}, {"nama": "Kompas", "link": "https://ekonomi.kompas.com/read/2015/01/31/100000923/Hati-hati.Terkena.Kencing.Tikus.Saat.Banjir", "judul": "Hati-hati Terkena Kencing Tikus Saat Banjir"}, {"nama": "Suara", "link": "https://www.suara.com/health/2015/02/10/141641/cegah-penyakit-pascabanjir-dengan-cara-ini", "judul": "Cegah Penyakit Pascabanjir Dengan Cara Ini"}, {"nama": "Tribun", "link": "https://www.tribunnews.com/kesehatan/2015/02/01/bahaya-kencing-tikus-kalau-bercampur-dengan-genangan-air-hujan", "judul": "Bahaya Kencing Tikus Kalau Bercampur dengan Genangan Air Hujan"}]}, "geometry": {"type": "Point", "coordinates": ["106.743891240277", "-6.16156235"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Jaten", "sumber": [{"nama": "Kompas", "link": "https://regional.kompas.com/read/2020/02/05/23033651/sejak-januari-2020-5-warga-karanganyar-meninggal-karena-leptospirosis", "judul": "Sejak Januari 2020, 5 Warga Karanganyar Meninggal karena Leptospirosis"}]}, "geometry": {"type": "Point", "coordinates": ["110.9084999", "-7.5731203"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Jawa Tengah", "sumber": [{"nama": "Liputan6", "link": "https://www.liputan6.com/regional/read/3896416/leptospirosis-hantui-banyumas-di-musim-penghujan?source=search", "judul": "Leptospirosis Hantui Banyumas di Musim Penghujan"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search", "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search", "judul": "Apa Itu Leptospirosis? Penyakit\u00a0yang Menghantui saat Musim Hujan"}, {"nama": "Tempo", "link": "https://koran.tempo.co/read/395923/dinas-kesehatan-temukan-5-kasus-leptospirosis", "judul": "Dinas Kesehatan Temukan 5 Kasus Leptospirosis - Berita Utama-Jateng - koran.temp..."}, {"nama": "Twitter", "link": "https://twitter.com/969150005830344832/status/1096367062174318592", "judul": "#trubusmania Dari 8 Wilayah Penyebaran Leptospirosis, Jateng Peringkat Pertama #..."}]}, "geometry": {"type": "Point", "coordinates": ["109.791711", "-7.353747"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Kalimantan Barat", "sumber": [{"nama": "Liputan6", "link": "https://www.liputan6.com/regional/read/3896416/leptospirosis-hantui-banyumas-di-musim-penghujan?source=search", "judul": "Leptospirosis Hantui Banyumas di Musim Penghujan"}]}, "geometry": {"type": "Point", "coordinates": ["111.0968901", "-0.1322387"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Kalimantan Utara", "sumber": [{"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3895314/headline-mewaspadai-jejak-kencing-tikus-penyebab-klb-leptospirosis?source=search", "judul": "HEADLINE: Mewaspadai Jejak Kencing Tikus Penyebab KLB Leptospirosis"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search", "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search", "judul": "Apa Itu Leptospirosis? Penyakit\u00a0yang Menghantui saat Musim Hujan"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3893686/kasus-leptospirosis-hantui-8-provinsi-di-indonesia?source=search", "judul": "Kasus Leptospirosis Hantui 8 Provinsi di Indonesia"}, {"nama": "Twitter", "link": "https://twitter.com/1079302973853843328/status/1096212897896620033", "judul": "Jangan anggap enteng penyakit yg disebabkan Dari Hewan Tikus.. \u2022\u2022\u2022 Dua dari tiga..."}]}, "geometry": {"type": "Point", "coordinates": ["116.2049306", "3.0235817"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Jawa Timur", "sumber": [{"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search", "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search", "judul": "Apa Itu Leptospirosis? Penyakit\u00a0yang Menghantui saat Musim Hujan"}, {"nama": "Twitter", "link": "https://twitter.com/550462209/status/1105457044730138625", "judul": "Pasca Banjir, 33 Warga Jatim Terkena Wabah \u2018Kencing Tikus\u2019 #gemafakta"}]}, "geometry": {"type": "Point", "coordinates": ["112.4914199", "-7.6977397"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Maluku", "sumber": [{"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search", "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search", "judul": "Apa Itu Leptospirosis? Penyakit\u00a0yang Menghantui saat Musim Hujan"}]}, "geometry": {"type": "Point", "coordinates": ["126.656188886953", "-3.4591158"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Banten", "sumber": [{"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search", "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"}, {"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search", "judul": "Apa Itu Leptospirosis? Penyakit\u00a0yang Menghantui saat Musim Hujan"}]}, "geometry": {"type": "Point", "coordinates": ["106.075011", "-6.417624"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Jawa Barat", "sumber": [{"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search", "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"}]}, "geometry": {"type": "Point", "coordinates": ["107.6404716", "-6.8891904"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Di Yogyakarta", "sumber": [{"nama": "Liputan6", "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search", "judul": "Apa Itu Leptospirosis? Penyakit\u00a0yang Menghantui saat Musim Hujan"}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1094147815343673344", "judul": "Menurut berita dari koran Tribun Jogja, 4 Februari 2019, diketahui ada tiga oran..."}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1094145300464189440", "judul": "Leptospirosis menjadi penyakit yang jadi perhatian serius beberapa tahun ini di ..."}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1093142768195534849", "judul": "Leptospirosis menjadi penyakit yang jadi perhatian serius beberapa tahun ini di ..."}]}, "geometry": {"type": "Point", "coordinates": ["110.367225650202", "-7.9778384"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Nglipar", "sumber": [{"nama": "Medcom", "link": "https://nusantara.medcom.id/jawa-tengah/peristiwa/GNlGpymK-10-warga-gunungkidul-diduga-meninggal-akibat-leptospirosis", "judul": "10 Warga Gunungkidul Diduga Meninggal Akibat Leptospirosis"}, {"nama": "Tempo", "link": "https://video.tempo.co/read/6282/sepuluh-warga-gunungkidul-meninggal-karena-leptospirosis", "judul": " Sepuluh Warga Gunungkidul Meninggal Karena Leptospirosis "}]}, "geometry": {"type": "Point", "coordinates": ["110.627427671021", "-7.8687997"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Patuk", "sumber": [{"nama": "Medcom", "link": "https://nusantara.medcom.id/jawa-tengah/peristiwa/GNlGpymK-10-warga-gunungkidul-diduga-meninggal-akibat-leptospirosis", "judul": "10 Warga Gunungkidul Diduga Meninggal Akibat Leptospirosis"}, {"nama": "Tempo", "link": "https://video.tempo.co/read/6282/sepuluh-warga-gunungkidul-meninggal-karena-leptospirosis", "judul": " Sepuluh Warga Gunungkidul Meninggal Karena Leptospirosis "}]}, "geometry": {"type": "Point", "coordinates": ["110.518405151345", "-7.8630335"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Malang", "sumber": [{"nama": "Merdeka", "link": "http://malang.merdeka.com/gaya-hidup/mengenal-leptospirosis-wabah-yang-gegerkan-lapas-lowokwaru-160719t.html", "judul": "Mengenal Leptospirosis, wabah yang gegerkan Lapas Lowokwaru"}]}, "geometry": {"type": "Point", "coordinates": ["112.687987213906", "-8.10479815"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Nogosari", "sumber": [{"nama": "Merdeka", "link": "https://www.merdeka.com/peristiwa/teror-ngeri-kencing-tikus-di-boyolali-ratusan-warga-dites-darah.html", "judul": "Teror ngeri kencing tikus di Boyolali, ratusan warga dites darah"}]}, "geometry": {"type": "Point", "coordinates": ["113.605146", "-8.2818926"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Ngemplak", "sumber": [{"nama": "Merdeka", "link": "https://www.merdeka.com/peristiwa/teror-ngeri-kencing-tikus-di-boyolali-ratusan-warga-dites-darah.html", "judul": "Teror ngeri kencing tikus di Boyolali, ratusan warga dites darah"}]}, "geometry": {"type": "Point", "coordinates": ["111.4557701", "-6.6906875"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Karanganyar", "sumber": [{"nama": "Merdeka", "link": "https://www.merdeka.com/peristiwa/4-warga-karanganyar-meninggal-akibat-penyakit-kencing-tikus.html", "judul": "4 Warga Karanganyar Meninggal Akibat Penyakit Kencing Tikus"}]}, "geometry": {"type": "Point", "coordinates": ["111.069800267544", "-7.6196965"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Sampang", "sumber": [{"nama": "Tempo", "link": "https://nasional.tempo.co/read/477075/wabah-leptospirosis-sampang-berburu-tikus", "judul": " Wabah Leptospirosis, Sampang Berburu Tikus "}]}, "geometry": {"type": "Point", "coordinates": ["110.571037812414", "-7.80684405"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Semanu", "sumber": [{"nama": "Tempo", "link": "https://video.tempo.co/read/6282/sepuluh-warga-gunungkidul-meninggal-karena-leptospirosis", "judul": " Sepuluh Warga Gunungkidul Meninggal Karena Leptospirosis "}]}, "geometry": {"type": "Point", "coordinates": ["110.647248253648", "-8.0372779"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Ngawen", "sumber": [{"nama": "Tempo", "link": "https://video.tempo.co/read/6282/sepuluh-warga-gunungkidul-meninggal-karena-leptospirosis", "judul": " Sepuluh Warga Gunungkidul Meninggal Karena Leptospirosis "}]}, "geometry": {"type": "Point", "coordinates": ["110.683272427885", "-7.83636495"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Semarang", "sumber": [{"nama": "Tempo", "link": "https://nasional.tempo.co/read/218415/semarang-posisi-tertinggi-kasus-leptospirosis-dan-demam-berdarah", "judul": " Semarang Posisi Tertinggi Kasus Leptospirosis dan Demam Berdarah "}, {"nama": "Tribun", "link": "http://www.tribunnews.com/regional/2013/11/22/warga-semarang-diminta-waspadai-penyakit-kencing-tikus", "judul": "Warga Semarang Diminta Waspadai Penyakit Kencing Tikus"}]}, "geometry": {"type": "Point", "coordinates": ["110.4229104", "-6.9903988"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Jakarta Pusat", "sumber": [{"nama": "Tempo", "link": "https://koran.tempo.co/read/95264/lagi-pasien-leptospirosis-meninggal", "judul": "Lagi, Pasien Leptospirosis Meninggal - Metro - koran.tempo.co"}]}, "geometry": {"type": "Point", "coordinates": ["106.842871536007", "-6.18233995"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Sleman", "sumber": [{"nama": "Tribun", "link": "http://www.tribunnews.com/regional/2018/03/22/13-orang-di-diy-meninggal-dunia-karena-leptospirosis?page=2", "judul": "13 Orang di DIY Meninggal Dunia karena Leptospirosis"}, {"nama": "Tribun", "link": "https://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis", "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"}, {"nama": "Tribun", "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all", "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"}, {"nama": "Antara News", "link": "https://www.antaranews.com/berita/870445/dinas-leptospirosis-rawan-serang-petani", "judul": "Dinas : Leptospirosis rawan serang petani "}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1094147818384646145", "judul": "Selain itu, ada 186 kasus leptospirosis. Bantul dan Sleman menjadi kawasan yang ..."}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1094147816832679940", "judul": "Dari ketiga orang tersebut, masing-masing penderita berada di Kabupaten Sleman, ..."}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1093143196639494144", "judul": "Tahun 2018 kemarin, jumlah penderita leptospirosis cukup mengejutkan. Ada 16 ora..."}, {"nama": "Twitter", "link": "https://twitter.com/411244163/status/1093143036173869057", "judul": "Menurut berita dari koran Tribun Jogja, 4 Februari 2019, diketahui ada tiga oran..."}, {"nama": "Twitter", "link": "https://twitter.com/58880688/status/1127519635669123072", "judul": "Dua Pasien Leptospirosis di Sleman Meninggal Dunia"}, {"nama": "Twitter", "link": "https://twitter.com/593344156/status/1126071648090710016", "judul": "Harjo - Hingga Akhir April, 12 Warga Sleman Terserang Leptospirosis, 1 Orang Tew..."}, {"nama": "Twitter", "link": "https://twitter.com/118371948/status/1126067994579226624", "judul": "Hingga Akhir April, 12 Warga Sleman Terserang Leptospirosis, 1 Orang Tewas"}, {"nama": "Twitter", "link": "https://twitter.com/223476605/status/1126055172977901569", "judul": "Hingga Bulan April, 12 Kasus Leptospirosis Terjadi di Sleman, 1 Korban Meninggal..."}]}, "geometry": {"type": "Point", "coordinates": ["110.344629239773", "-7.6952864"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Tulungagung", "sumber": [{"nama": "Tribun", "link": "https://www.tribunnews.com/regional/2012/07/18/penyakit-leptospirosis-menyebar-100-tikus-diotopsi", "judul": "PenyaKit Leptospirosis Menyebar, 100 Tikus Diotopsi"}]}, "geometry": {"type": "Point", "coordinates": ["111.899640788807", "-8.07290355"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Nanggulan", "sumber": [{"nama": "Tribun", "link": "https://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis", "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"}, {"nama": "Tribun", "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all", "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"}, {"nama": "Antara News", "link": "https://www.antaranews.com/berita/633381/58-kasus-leptospirosis-terjadi-di-kulon-progo", "judul": "58 kasus leptospirosis terjadi di Kulon Progo "}]}, "geometry": {"type": "Point", "coordinates": ["110.205779016021", "-7.77969935"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Wates", "sumber": [{"nama": "Tribun", "link": "https://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis", "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"}]}, "geometry": {"type": "Point", "coordinates": ["110.140751998888", "-7.88590185"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Gresik", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/141738/waspadai-leptospirosis-di-musim-tak-menentu", "judul": "Waspadai Leptospirosis di Musim Tak Menentu "}]}, "geometry": {"type": "Point", "coordinates": ["112.65611", "-7.15389"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Jeneponto", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/875001/penyakit-misterius-di-jeneponto-tifoid-dan-leptospirosis", "judul": "Penyakit misterius di Jeneponto tifoid dan leptospirosis "}, {"nama": "Twitter", "link": "https://twitter.com/771030588/status/1130329803335393280", "judul": "Sanitasi yang buruk diduga menjadi penyebab utama munculnya serangan penyakit me..."}]}, "geometry": {"type": "Point", "coordinates": ["119.5771474", "-5.4931474"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Bangkala Barat", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/875001/penyakit-misterius-di-jeneponto-tifoid-dan-leptospirosis", "judul": "Penyakit misterius di Jeneponto tifoid dan leptospirosis "}]}, "geometry": {"type": "Point", "coordinates": ["119.5391504", "-5.5612165"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Panjatan", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/633381/58-kasus-leptospirosis-terjadi-di-kulon-progo", "judul": "58 kasus leptospirosis terjadi di Kulon Progo "}]}, "geometry": {"type": "Point", "coordinates": ["110.150449671042", "-7.9154594"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Moyudan", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/633381/58-kasus-leptospirosis-terjadi-di-kulon-progo", "judul": "58 kasus leptospirosis terjadi di Kulon Progo "}]}, "geometry": {"type": "Point", "coordinates": ["110.246980177815", "-7.77713635"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Kokap", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/633381/58-kasus-leptospirosis-terjadi-di-kulon-progo", "judul": "58 kasus leptospirosis terjadi di Kulon Progo "}]}, "geometry": {"type": "Point", "coordinates": ["110.093259526688", "-7.8276519"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Girimulyo", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/633381/58-kasus-leptospirosis-terjadi-di-kulon-progo", "judul": "58 kasus leptospirosis terjadi di Kulon Progo "}]}, "geometry": {"type": "Point", "coordinates": ["110.163472272035", "-7.74796415"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Minggir", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/633381/58-kasus-leptospirosis-terjadi-di-kulon-progo", "judul": "58 kasus leptospirosis terjadi di Kulon Progo "}]}, "geometry": {"type": "Point", "coordinates": ["110.250711029921", "-7.7318908"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Temon", "sumber": [{"nama": "Antara News", "link": "https://www.antaranews.com/berita/633381/58-kasus-leptospirosis-terjadi-di-kulon-progo", "judul": "58 kasus leptospirosis terjadi di Kulon Progo "}]}, "geometry": {"type": "Point", "coordinates": ["110.07009015292", "-7.8889586"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Boyolali", "sumber": [{"nama": "Twitter", "link": "https://twitter.com/906083008486137728/status/968773640123703299", "judul": "Waspadalah,13 Orang Meninggal Sejak 2017, Kasus Leptospirosis di Boyolali Mening..."}, {"nama": "Twitter", "link": "https://twitter.com/883447749487632384/status/968481178406834178", "judul": "Waspada\u2026! Satu Lagi Meninggal Dunia karena Leptospirosis di Boyolali"}]}, "geometry": {"type": "Point", "coordinates": ["110.703869059002", "-7.3872118"]}}, {"type": "Feature", "properties": {"penyakit": "Leptospirosis", "lokasi": "Klaten", "sumber": [{"nama": "Twitter", "link": "https://twitter.com/939047394418626432/status/1067968672105459713", "judul": "66 Kasus Leptospirosis di Klaten, 11 Meninggal Dunia Dinas Kesehatan (Dinkes) Kl..."}]}, "geometry": {"type": "Point", "coordinates": ["110.627278709726", "-7.6749204"]}}]}
+{
+    "data": [
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Ngampilan",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/1142499/dinkes-waspadai-leptospirosis-saat-pancaroba-selain-db-di-yogyakarta",
+              "judul": "Dinkes: Waspadai leptospirosis saat pancaroba selain DB di Yogyakarta "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.357615196016",
+            "-7.80218335"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Yogyakarta",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/1142499/dinkes-waspadai-leptospirosis-saat-pancaroba-selain-db-di-yogyakarta",
+              "judul": "Dinkes: Waspadai leptospirosis saat pancaroba selain DB di Yogyakarta "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2011/03/09/11252233/diy.waspadai.leptospirosis.",
+              "judul": "DIY Waspadai Leptospirosis "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://makassar.kompas.com/read/2011/03/21/06054173/bahaya.leptospirosis.belum.banyak.diketahui",
+              "judul": "Bahaya Leptospirosis Belum Banyak Diketahui"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://nasional.tempo.co/read/527373/yogya-waspadai-penyebaran-leptospirosis",
+              "judul": " Yogya Waspadai Penyebaran Leptospirosis "
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/395923/dinas-kesehatan-temukan-5-kasus-leptospirosis",
+              "judul": "Dinas Kesehatan Temukan 5 Kasus Leptospirosis - Berita Utama-Jateng - koran.temp..."
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2018/03/22/13-orang-di-diy-meninggal-dunia-karena-leptospirosis?page=2",
+              "judul": "13 Orang di DIY Meninggal Dunia karena Leptospirosis"
+            },
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2019/01/17/tahun-lalu-16-orang-di-diy-meninggal-akibat-leptospirosis-kebanyakan-warga-bantul",
+              "judul": "Tahun Lalu 16 Orang di DIY Meninggal Akibat Leptospirosis, Kebanyakan Warga Bant..."
+            },
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2019/01/03/warga-kota-yogyakarta-diminta-waspadai-penyakit-leptopsirosis?page=2",
+              "judul": "Warga Kota Yogyakarta Diminta Waspadai Penyakit Leptopsirosis"
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/411244163/status/1094147816832679940",
+              "judul": "Dari ketiga orang tersebut, masing-masing penderita berada di Kabupaten Sleman, ..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/411244163/status/1094147815343673344",
+              "judul": "Menurut berita dari koran Tribun Jogja, 4 Februari 2019, diketahui ada tiga oran..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/411244163/status/1093143036173869057",
+              "judul": "Menurut berita dari koran Tribun Jogja, 4 Februari 2019, diketahui ada tiga oran..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/189059637/status/1092938436003151873",
+              "judul": "#SelamatPagiJogja | Kedaulatan Rakyat : Akhir Januari, ditemukan 3 orang Suspect..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/1481352673/status/1199306094788526081",
+              "judul": "5 Orang Meninggal karena Kencing Tikus di Yogyakarta"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.364917",
+            "-7.8011945"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Gorontalo",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/116695/sejumlah-warga-mulai-diserang-leptospirosis-pasca-banjir",
+              "judul": "Sejumlah Warga Mulai Diserang Leptospirosis Pasca Banjir "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "122.4555927",
+            "0.7186174"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Banten",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/54440/14-orang-meninggal-akibat-leptospirosis-pasca-banjir-jakarta",
+              "judul": "14 Orang Meninggal Akibat Leptospirosis Pasca Banjir Jakarta "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53825/lima-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "Lima Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53743/tiga-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "Tiga Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://medan.kompas.com/read/2019/02/21/16183431/sepanjang-2018-31-kasus-leptospirosis-terjadi-di-jakarta-2-orang",
+              "judul": "Sepanjang 2018, 31 Kasus Leptospirosis Terjadi di Jakarta, 2 Orang Meninggal "
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895314/headline-mewaspadai-jejak-kencing-tikus-penyebab-klb-leptospirosis?source=search",
+              "judul": "HEADLINE: Mewaspadai Jejak Kencing Tikus Penyebab KLB Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search",
+              "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search",
+              "judul": "Apa Itu Leptospirosis? Penyakit yang Menghantui saat Musim Hujan"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893686/kasus-leptospirosis-hantui-8-provinsi-di-indonesia?source=search",
+              "judul": "Kasus Leptospirosis Hantui 8 Provinsi di Indonesia"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/54083/9-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "9 Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53947/pasien-leptospirosis-banjir-jakarta-119-orang",
+              "judul": "Pasien Leptospirosis Banjir Jakarta 119 Orang "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/844114/mewaspadai-tragedi-leptospirosis",
+              "judul": "Mewaspadai tragedi Leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.075011",
+            "-6.417624"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Dki Jakarta",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/54440/14-orang-meninggal-akibat-leptospirosis-pasca-banjir-jakarta",
+              "judul": "14 Orang Meninggal Akibat Leptospirosis Pasca Banjir Jakarta "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53912/112-korban-banjir-positif-terserang-leptospirosis",
+              "judul": "112 Korban Banjir Positif Terserang Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53825/lima-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "Lima Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53743/tiga-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "Tiga Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://medan.kompas.com/read/2019/02/21/16183431/sepanjang-2018-31-kasus-leptospirosis-terjadi-di-jakarta-2-orang",
+              "judul": "Sepanjang 2018, 31 Kasus Leptospirosis Terjadi di Jakarta, 2 Orang Meninggal "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2008/02/20/21475127/satu.pasien.leptospirosis.meninggal",
+              "judul": "Satu Pasien Leptospirosis Meninggal"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://megapolitan.kompas.com/read/2016/10/19/18220301/penyakit.karena.kencing.tikus.terbanyak.ditemukan.di.jakarta.barat",
+              "judul": "Penyakit karena Kencing Tikus Terbanyak Ditemukan di Jakarta Barat"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2015/01/31/100000923/Hati-hati.Terkena.Kencing.Tikus.Saat.Banjir",
+              "judul": "Hati-hati Terkena Kencing Tikus Saat Banjir"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://megapolitan.kompas.com/read/2016/10/19/18514491/selama.2016.hanya.40.penyakit.akibat.tikus.yang.ditemukan.di.jakarta",
+              "judul": "Selama 2016, Hanya 40 Penyakit Akibat Tikus yang Ditemukan di Jakarta"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://bandung.kompas.com/read/2016/10/19/17451631/leptospirosis.penyakit.akibat.tikus.yang.banyak.terjadi.di.jakarta",
+              "judul": "Leptospirosis, Penyakit Akibat Tikus yang Banyak Terjadi di Jakarta"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/news/read/4158798/kasus-penyakit-leptospirosis-di-jakarta-meningkat-usai-banjir?source=search",
+              "judul": "Kasus Penyakit Leptospirosis di Jakarta Meningkat Usai Banjir"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895314/headline-mewaspadai-jejak-kencing-tikus-penyebab-klb-leptospirosis?source=search",
+              "judul": "HEADLINE: Mewaspadai Jejak Kencing Tikus Penyebab KLB Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search",
+              "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search",
+              "judul": "Apa Itu Leptospirosis? Penyakit yang Menghantui saat Musim Hujan"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893686/kasus-leptospirosis-hantui-8-provinsi-di-indonesia?source=search",
+              "judul": "Kasus Leptospirosis Hantui 8 Provinsi di Indonesia"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/395923/dinas-kesehatan-temukan-5-kasus-leptospirosis",
+              "judul": "Dinas Kesehatan Temukan 5 Kasus Leptospirosis - Berita Utama-Jateng - koran.temp..."
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://majalah.tempo.co/read/kesehatan/89527/gara-gara-tikus-kencing-di-musim-banjir&user=register",
+              "judul": "Gara-gara Tikus Kencing di Musim Banjir - Kesehatan - majalah.tempo.co"
+            },
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/kesehatan/2015/02/01/bahaya-kencing-tikus-kalau-bercampur-dengan-genangan-air-hujan",
+              "judul": "Bahaya Kencing Tikus Kalau Bercampur dengan Genangan Air Hujan"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/54083/9-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "9 Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53947/pasien-leptospirosis-banjir-jakarta-119-orang",
+              "judul": "Pasien Leptospirosis Banjir Jakarta 119 Orang "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/844114/mewaspadai-tragedi-leptospirosis",
+              "judul": "Mewaspadai tragedi Leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.827183",
+            "-6.1753942"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Jawa Barat",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/54440/14-orang-meninggal-akibat-leptospirosis-pasca-banjir-jakarta",
+              "judul": "14 Orang Meninggal Akibat Leptospirosis Pasca Banjir Jakarta "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53825/lima-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "Lima Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53743/tiga-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "Tiga Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://medan.kompas.com/read/2019/02/21/16183431/sepanjang-2018-31-kasus-leptospirosis-terjadi-di-jakarta-2-orang",
+              "judul": "Sepanjang 2018, 31 Kasus Leptospirosis Terjadi di Jakarta, 2 Orang Meninggal "
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895314/headline-mewaspadai-jejak-kencing-tikus-penyebab-klb-leptospirosis?source=search",
+              "judul": "HEADLINE: Mewaspadai Jejak Kencing Tikus Penyebab KLB Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search",
+              "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search",
+              "judul": "Apa Itu Leptospirosis? Penyakit yang Menghantui saat Musim Hujan"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893686/kasus-leptospirosis-hantui-8-provinsi-di-indonesia?source=search",
+              "judul": "Kasus Leptospirosis Hantui 8 Provinsi di Indonesia"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/54083/9-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "9 Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53947/pasien-leptospirosis-banjir-jakarta-119-orang",
+              "judul": "Pasien Leptospirosis Banjir Jakarta 119 Orang "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/844114/mewaspadai-tragedi-leptospirosis",
+              "judul": "Mewaspadai tragedi Leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "107.6404716",
+            "-6.8891904"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Tangerang",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53912/112-korban-banjir-positif-terserang-leptospirosis",
+              "judul": "112 Korban Banjir Positif Terserang Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53825/lima-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "Lima Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53743/tiga-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "Tiga Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/54083/9-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "9 Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53947/pasien-leptospirosis-banjir-jakarta-119-orang",
+              "judul": "Pasien Leptospirosis Banjir Jakarta 119 Orang "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.6384468",
+            "-6.1760311"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Cengkareng",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53912/112-korban-banjir-positif-terserang-leptospirosis",
+              "judul": "112 Korban Banjir Positif Terserang Leptospirosis "
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/156072/lagi-leptospirosis-makan-korban",
+              "judul": "Lagi, Leptospirosis Makan Korban - Metro - koran.tempo.co"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53947/pasien-leptospirosis-banjir-jakarta-119-orang",
+              "judul": "Pasien Leptospirosis Banjir Jakarta 119 Orang "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.744718237263",
+            "-6.1528985"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Depok",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53825/lima-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "Lima Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53743/tiga-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "Tiga Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/1-warga-sleman-meninggal-dunia-akibat-penyakit-leptospirosis.html",
+              "judul": "1 Warga Sleman Meninggal Dunia Akibat Penyakit Leptospirosis"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/1265065/satu-warga-sleman-meninggal-akibat-leptospirosis",
+              "judul": "Satu warga Sleman meninggal akibat leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/54083/9-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "9 Korban Banjir Meninggal Akibat Leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.8138131",
+            "-6.4074657"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Bekasi",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53825/lima-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "Lima Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53743/tiga-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "Tiga Korban Banjir Meninggal Akibat Leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/54083/9-korban-banjir-meninggal-akibat-leptospirosis",
+              "judul": "9 Korban Banjir Meninggal Akibat Leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.9945444",
+            "-6.2349858"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Bantul",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/695190/dinkes-diy-satu-orang-meninggal-terkena-leptospirosis-50-suspect",
+              "judul": "Dinkes DIY: satu orang meninggal terkena leptospirosis, 50 suspect "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/577286/dinkes-tiga-warga-bantul-meninggal-akibat-leptospirosis",
+              "judul": "Dinkes : tiga warga Bantul meninggal akibat leptospirosis "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2011/06/22/22313462/112.Warga.Bantul.Terkena.Leptospirosis",
+              "judul": "112 Warga Bantul Terkena Leptospirosis"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://samarinda.kompas.com/read/2010/04/30/11092454/.leptospirosis.menyerang.8.warga.bantul",
+              "judul": " Leptospirosis Menyerang 8 Warga Bantul"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2011/03/09/11252233/diy.waspadai.leptospirosis.",
+              "judul": "DIY Waspadai Leptospirosis "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://makassar.kompas.com/read/2011/03/21/06054173/bahaya.leptospirosis.belum.banyak.diketahui",
+              "judul": "Bahaya Leptospirosis Belum Banyak Diketahui"
+            },
+            {
+              "nama": "Suara",
+              "link": "https://www.suara.com/news/2016/03/08/031600/musim-hujan-awas-penyakit-kencing-tikus-di-yogya",
+              "judul": "Musim Hujan, Awas Penyakit 'Kencing Tikus' di Yogya"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/407774/warga-yogya-diminta-waspadai-leptospirosis",
+              "judul": "Warga Yogya Diminta Waspadai Leptospirosis - Berita Utama-Jateng - koran.tempo.c..."
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/225158/bantul-dinyatakan-klb-leptospirosis",
+              "judul": "Bantul Dinyatakan KLB Leptospirosis - Berita Utama-Jateng - koran.tempo.co"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/228020/kulon-progo-menuju-klb-leptospirosis",
+              "judul": "Kulon Progo Menuju KLB Leptospirosis - Berita Utama-Jateng - koran.tempo.co"
+            },
+            {
+              "nama": "Tirto",
+              "link": "https://tirto.id/ahok-akan-basmi-tikus-tikus-jakarta-bVKh",
+              "judul": "Ahok Akan Basmi Tikus-tikus Jakarta"
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2018/03/22/13-orang-di-diy-meninggal-dunia-karena-leptospirosis?page=2",
+              "judul": "13 Orang di DIY Meninggal Dunia karena Leptospirosis"
+            },
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2019/01/17/tahun-lalu-16-orang-di-diy-meninggal-akibat-leptospirosis-kebanyakan-warga-bantul",
+              "judul": "Tahun Lalu 16 Orang di DIY Meninggal Akibat Leptospirosis, Kebanyakan Warga Bant..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/411244163/status/1094147818384646145",
+              "judul": "Selain itu, ada 186 kasus leptospirosis. Bantul dan Sleman menjadi kawasan yang ..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/411244163/status/1094147816832679940",
+              "judul": "Dari ketiga orang tersebut, masing-masing penderita berada di Kabupaten Sleman, ..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/411244163/status/1093143196639494144",
+              "judul": "Tahun 2018 kemarin, jumlah penderita leptospirosis cukup mengejutkan. Ada 16 ora..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/411244163/status/1093143036173869057",
+              "judul": "Menurut berita dari koran Tribun Jogja, 4 Februari 2019, diketahui ada tiga oran..."
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.385553358986",
+            "-7.89825435"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Di Yogyakarta",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/695190/dinkes-diy-satu-orang-meninggal-terkena-leptospirosis-50-suspect",
+              "judul": "Dinkes DIY: satu orang meninggal terkena leptospirosis, 50 suspect "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://medan.kompas.com/read/2019/02/21/16183431/sepanjang-2018-31-kasus-leptospirosis-terjadi-di-jakarta-2-orang",
+              "judul": "Sepanjang 2018, 31 Kasus Leptospirosis Terjadi di Jakarta, 2 Orang Meninggal "
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895314/headline-mewaspadai-jejak-kencing-tikus-penyebab-klb-leptospirosis?source=search",
+              "judul": "HEADLINE: Mewaspadai Jejak Kencing Tikus Penyebab KLB Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search",
+              "judul": "Apa Itu Leptospirosis? Penyakit yang Menghantui saat Musim Hujan"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893686/kasus-leptospirosis-hantui-8-provinsi-di-indonesia?source=search",
+              "judul": "Kasus Leptospirosis Hantui 8 Provinsi di Indonesia"
+            },
+            {
+              "nama": "Suara",
+              "link": "https://www.suara.com/news/2016/03/08/031600/musim-hujan-awas-penyakit-kencing-tikus-di-yogya",
+              "judul": "Musim Hujan, Awas Penyakit 'Kencing Tikus' di Yogya"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/407774/warga-yogya-diminta-waspadai-leptospirosis",
+              "judul": "Warga Yogya Diminta Waspadai Leptospirosis - Berita Utama-Jateng - koran.tempo.c..."
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2018/03/22/13-orang-di-diy-meninggal-dunia-karena-leptospirosis?page=2",
+              "judul": "13 Orang di DIY Meninggal Dunia karena Leptospirosis"
+            },
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2019/01/17/tahun-lalu-16-orang-di-diy-meninggal-akibat-leptospirosis-kebanyakan-warga-bantul",
+              "judul": "Tahun Lalu 16 Orang di DIY Meninggal Akibat Leptospirosis, Kebanyakan Warga Bant..."
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/844114/mewaspadai-tragedi-leptospirosis",
+              "judul": "Mewaspadai tragedi Leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.367225650202",
+            "-7.9778384"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Dlingo",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/695190/dinkes-diy-satu-orang-meninggal-terkena-leptospirosis-50-suspect",
+              "judul": "Dinkes DIY: satu orang meninggal terkena leptospirosis, 50 suspect "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.461061869937",
+            "-7.9191544"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Gunung Kidul",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/695190/dinkes-diy-satu-orang-meninggal-terkena-leptospirosis-50-suspect",
+              "judul": "Dinkes DIY: satu orang meninggal terkena leptospirosis, 50 suspect "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2008/05/10/10005178/tak.ada.serangan.leptospirosis.di.gunung.kidul",
+              "judul": "Tak Ada Serangan Leptospirosis di Gunung Kidul"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2011/03/09/11252233/diy.waspadai.leptospirosis.",
+              "judul": "DIY Waspadai Leptospirosis "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://makassar.kompas.com/read/2011/03/21/06054173/bahaya.leptospirosis.belum.banyak.diketahui",
+              "judul": "Bahaya Leptospirosis Belum Banyak Diketahui"
+            },
+            {
+              "nama": "Kumparan",
+              "link": "https://kumparan.com/tugujogja/wisatawan-dihimbau-waspadai-tikus-leptospirosis-di-pantai-gunungkidul-1541343608201721210",
+              "judul": "Wisatawan Dihimbau Waspadai Tikus Leptospirosis di Pantai Gunungkidul - kumparan..."
+            },
+            {
+              "nama": "Medcom",
+              "link": "https://nusantara.medcom.id/jawa-tengah/peristiwa/GNlGpymK-10-warga-gunungkidul-diduga-meninggal-akibat-leptospirosis",
+              "judul": "10 Warga Gunungkidul Diduga Meninggal Akibat Leptospirosis"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/34-warga-gunungkidul-terkena-leptospirosis-1-tewas.html",
+              "judul": "34 Warga Gunungkidul terkena leptospirosis, 1 tewas"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://video.tempo.co/read/6282/sepuluh-warga-gunungkidul-meninggal-karena-leptospirosis",
+              "judul": " Sepuluh Warga Gunungkidul Meninggal Karena Leptospirosis "
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2018/03/22/13-orang-di-diy-meninggal-dunia-karena-leptospirosis?page=2",
+              "judul": "13 Orang di DIY Meninggal Dunia karena Leptospirosis"
+            },
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2019/01/17/tahun-lalu-16-orang-di-diy-meninggal-akibat-leptospirosis-kebanyakan-warga-bantul",
+              "judul": "Tahun Lalu 16 Orang di DIY Meninggal Akibat Leptospirosis, Kebanyakan Warga Bant..."
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "112.1982",
+            "-8.1674"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Sleman",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/695190/dinkes-diy-satu-orang-meninggal-terkena-leptospirosis-50-suspect",
+              "judul": "Dinkes DIY: satu orang meninggal terkena leptospirosis, 50 suspect "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://makassar.kompas.com/read/2011/03/21/06054173/bahaya.leptospirosis.belum.banyak.diketahui",
+              "judul": "Bahaya Leptospirosis Belum Banyak Diketahui"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/1-warga-sleman-meninggal-dunia-akibat-penyakit-leptospirosis.html",
+              "judul": "1 Warga Sleman Meninggal Dunia Akibat Penyakit Leptospirosis"
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2018/03/22/13-orang-di-diy-meninggal-dunia-karena-leptospirosis?page=2",
+              "judul": "13 Orang di DIY Meninggal Dunia karena Leptospirosis"
+            },
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2019/01/17/tahun-lalu-16-orang-di-diy-meninggal-akibat-leptospirosis-kebanyakan-warga-bantul",
+              "judul": "Tahun Lalu 16 Orang di DIY Meninggal Akibat Leptospirosis, Kebanyakan Warga Bant..."
+            },
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/1265065/satu-warga-sleman-meninggal-akibat-leptospirosis",
+              "judul": "Satu warga Sleman meninggal akibat leptospirosis "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/870445/dinas-leptospirosis-rawan-serang-petani",
+              "judul": "Dinas : Leptospirosis rawan serang petani "
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/411244163/status/1094147818384646145",
+              "judul": "Selain itu, ada 186 kasus leptospirosis. Bantul dan Sleman menjadi kawasan yang ..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/411244163/status/1094147816832679940",
+              "judul": "Dari ketiga orang tersebut, masing-masing penderita berada di Kabupaten Sleman, ..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/411244163/status/1093143196639494144",
+              "judul": "Tahun 2018 kemarin, jumlah penderita leptospirosis cukup mengejutkan. Ada 16 ora..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/411244163/status/1093143036173869057",
+              "judul": "Menurut berita dari koran Tribun Jogja, 4 Februari 2019, diketahui ada tiga oran..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/58880688/status/1127519635669123072",
+              "judul": "Dua Pasien Leptospirosis di Sleman Meninggal Dunia"
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/593344156/status/1126071648090710016",
+              "judul": "Harjo - Hingga Akhir April, 12 Warga Sleman Terserang Leptospirosis, 1 Orang Tew..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/118371948/status/1126067994579226624",
+              "judul": "Hingga Akhir April, 12 Warga Sleman Terserang Leptospirosis, 1 Orang Tewas"
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/223476605/status/1126055172977901569",
+              "judul": "Hingga Bulan April, 12 Kasus Leptospirosis Terjadi di Sleman, 1 Korban Meninggal..."
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.344629239773",
+            "-7.6952864"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Sewon",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/577286/dinkes-tiga-warga-bantul-meninggal-akibat-leptospirosis",
+              "judul": "Dinkes : tiga warga Bantul meninggal akibat leptospirosis "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2011/06/22/22313462/112.Warga.Bantul.Terkena.Leptospirosis",
+              "judul": "112 Warga Bantul Terkena Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.352462957987",
+            "-7.85615635"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Pandak",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/577286/dinkes-tiga-warga-bantul-meninggal-akibat-leptospirosis",
+              "judul": "Dinkes : tiga warga Bantul meninggal akibat leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.287135191449",
+            "-7.92410645"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Sampang",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/413633/10-warga-sampang-meninggal-akibat-leptospirosis",
+              "judul": "10 warga sampang meninggal akibat leptospirosis "
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://nasional.tempo.co/read/477075/wabah-leptospirosis-sampang-berburu-tikus",
+              "judul": " Wabah Leptospirosis, Sampang Berburu Tikus "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.571037812414",
+            "-7.80684405"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Colomadu",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2020/02/05/23033651/sejak-januari-2020-5-warga-karanganyar-meninggal-karena-leptospirosis",
+              "judul": "Sejak Januari 2020, 5 Warga Karanganyar Meninggal karena Leptospirosis"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/4-warga-karanganyar-meninggal-akibat-penyakit-kencing-tikus.html",
+              "judul": "4 Warga Karanganyar Meninggal Akibat Penyakit Kencing Tikus"
+            },
+            {
+              "nama": "Suara",
+              "link": "https://www.suara.com/partner/content/solopos/2020/02/12/152722/colomadu-jadi-fokus-menekan-angka-leptospirosis-di-karanganyar",
+              "judul": "Colomadu Jadi Fokus Menekan Angka Leptospirosis di Karanganyar"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.750289024338",
+            "-7.5314625"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Tasikmadu",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2020/02/05/23033651/sejak-januari-2020-5-warga-karanganyar-meninggal-karena-leptospirosis",
+              "judul": "Sejak Januari 2020, 5 Warga Karanganyar Meninggal karena Leptospirosis"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/4-warga-karanganyar-meninggal-akibat-penyakit-kencing-tikus.html",
+              "judul": "4 Warga Karanganyar Meninggal Akibat Penyakit Kencing Tikus"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "109.8341161",
+            "-7.7061456"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Gondangrejo",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2020/02/05/23033651/sejak-januari-2020-5-warga-karanganyar-meninggal-karena-leptospirosis",
+              "judul": "Sejak Januari 2020, 5 Warga Karanganyar Meninggal karena Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.2133447",
+            "-7.4447802"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Karanganyar",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2020/02/05/23033651/sejak-januari-2020-5-warga-karanganyar-meninggal-karena-leptospirosis",
+              "judul": "Sejak Januari 2020, 5 Warga Karanganyar Meninggal karena Leptospirosis"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/4-warga-karanganyar-meninggal-akibat-penyakit-kencing-tikus.html",
+              "judul": "4 Warga Karanganyar Meninggal Akibat Penyakit Kencing Tikus"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "111.069800267544",
+            "-7.6196965"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Kebakkramat",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2020/02/05/23033651/sejak-januari-2020-5-warga-karanganyar-meninggal-karena-leptospirosis",
+              "judul": "Sejak Januari 2020, 5 Warga Karanganyar Meninggal karena Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.9021249",
+            "-7.528492"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Jetis",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2011/06/22/22313462/112.Warga.Bantul.Terkena.Leptospirosis",
+              "judul": "112 Warga Bantul Terkena Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.364669226815",
+            "-7.7815139"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Imogiri",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2011/06/22/22313462/112.Warga.Bantul.Terkena.Leptospirosis",
+              "judul": "112 Warga Bantul Terkena Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.385923759679",
+            "-7.9361791"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Sedayu",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2011/06/22/22313462/112.Warga.Bantul.Terkena.Leptospirosis",
+              "judul": "112 Warga Bantul Terkena Leptospirosis"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://samarinda.kompas.com/read/2010/04/30/11092454/.leptospirosis.menyerang.8.warga.bantul",
+              "judul": " Leptospirosis Menyerang 8 Warga Bantul"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/225158/bantul-dinyatakan-klb-leptospirosis",
+              "judul": "Bantul Dinyatakan KLB Leptospirosis - Berita Utama-Jateng - koran.tempo.co"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.260090657417",
+            "-7.82522925"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Kulon Progo",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2011/03/09/11252233/diy.waspadai.leptospirosis.",
+              "judul": "DIY Waspadai Leptospirosis "
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://makassar.kompas.com/read/2011/03/21/06054173/bahaya.leptospirosis.belum.banyak.diketahui",
+              "judul": "Bahaya Leptospirosis Belum Banyak Diketahui"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/regional/read/2982909/hati-hati-leptospirosis-mulai-serang-warga-gunung?source=search",
+              "judul": "Hati-Hati, Leptospirosis Mulai Serang Warga Gunung"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/228020/kulon-progo-menuju-klb-leptospirosis",
+              "judul": "Kulon Progo Menuju KLB Leptospirosis - Berita Utama-Jateng - koran.tempo.co"
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2018/03/22/13-orang-di-diy-meninggal-dunia-karena-leptospirosis?page=2",
+              "judul": "13 Orang di DIY Meninggal Dunia karena Leptospirosis"
+            },
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2019/01/17/tahun-lalu-16-orang-di-diy-meninggal-akibat-leptospirosis-kebanyakan-warga-bantul",
+              "judul": "Tahun Lalu 16 Orang di DIY Meninggal Akibat Leptospirosis, Kebanyakan Warga Bant..."
+            },
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/633381/58-kasus-leptospirosis-terjadi-di-kulon-progo",
+              "judul": "58 kasus leptospirosis terjadi di Kulon Progo "
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/159450635/status/1117383765305597953",
+              "judul": "Kasus Leptospirosis di Kulon Progo Tewaskan 2 Orang -"
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/118371948/status/1116960470903078912",
+              "judul": "Leptospirosis di Kulonprogo: 11 Kasus, Dua Meninggal Dunia"
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/241547550/status/1116963286916972544",
+              "judul": "Harian_Jogja \"Leptospirosis di Kulonprogo: 11 Kasus, Dua Meninggal Dunia"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.14798278892",
+            "-7.8123076"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Cerme",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2019/09/05/15004231/7-orang-meninggal-dunia-akibat-penyakit-kencing-tikus-di-gresik?page=all",
+              "judul": "7 Orang Meninggal Dunia akibat Penyakit 'Kencing Tikus' di Gresik"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2019/09/05/15004231/7-orang-meninggal-dunia-akibat-penyakit-kencing-tikus-di-gresik",
+              "judul": "7 Orang Meninggal Dunia akibat Penyakit 'Kencing Tikus' di Gresik"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.171353951712",
+            "-7.8952023"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Gresik",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2019/09/05/15004231/7-orang-meninggal-dunia-akibat-penyakit-kencing-tikus-di-gresik?page=all",
+              "judul": "7 Orang Meninggal Dunia akibat Penyakit 'Kencing Tikus' di Gresik"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2019/09/05/15004231/7-orang-meninggal-dunia-akibat-penyakit-kencing-tikus-di-gresik",
+              "judul": "7 Orang Meninggal Dunia akibat Penyakit 'Kencing Tikus' di Gresik"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/141738/waspadai-leptospirosis-di-musim-tak-menentu",
+              "judul": "Waspadai Leptospirosis di Musim Tak Menentu "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "112.65611",
+            "-7.15389"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Panceng",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2019/09/05/15004231/7-orang-meninggal-dunia-akibat-penyakit-kencing-tikus-di-gresik?page=all",
+              "judul": "7 Orang Meninggal Dunia akibat Penyakit 'Kencing Tikus' di Gresik"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2019/09/05/15004231/7-orang-meninggal-dunia-akibat-penyakit-kencing-tikus-di-gresik",
+              "judul": "7 Orang Meninggal Dunia akibat Penyakit 'Kencing Tikus' di Gresik"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "109.90861",
+            "-7.60111"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Duduksampeyan",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2019/09/05/15004231/7-orang-meninggal-dunia-akibat-penyakit-kencing-tikus-di-gresik?page=all",
+              "judul": "7 Orang Meninggal Dunia akibat Penyakit 'Kencing Tikus' di Gresik"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://regional.kompas.com/read/2019/09/05/15004231/7-orang-meninggal-dunia-akibat-penyakit-kencing-tikus-di-gresik",
+              "judul": "7 Orang Meninggal Dunia akibat Penyakit 'Kencing Tikus' di Gresik"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "112.5226304",
+            "-7.1569263"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Jawa Timur",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://medan.kompas.com/read/2019/02/21/16183431/sepanjang-2018-31-kasus-leptospirosis-terjadi-di-jakarta-2-orang",
+              "judul": "Sepanjang 2018, 31 Kasus Leptospirosis Terjadi di Jakarta, 2 Orang Meninggal "
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895314/headline-mewaspadai-jejak-kencing-tikus-penyebab-klb-leptospirosis?source=search",
+              "judul": "HEADLINE: Mewaspadai Jejak Kencing Tikus Penyebab KLB Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search",
+              "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search",
+              "judul": "Apa Itu Leptospirosis? Penyakit yang Menghantui saat Musim Hujan"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893686/kasus-leptospirosis-hantui-8-provinsi-di-indonesia?source=search",
+              "judul": "Kasus Leptospirosis Hantui 8 Provinsi di Indonesia"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/844114/mewaspadai-tragedi-leptospirosis",
+              "judul": "Mewaspadai tragedi Leptospirosis "
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/550462209/status/1105457044730138625",
+              "judul": "Pasca Banjir, 33 Warga Jatim Terkena Wabah ‘Kencing Tikus’ #gemafakta"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "112.4914199",
+            "-7.6977397"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Kalimantan Utara",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://medan.kompas.com/read/2019/02/21/16183431/sepanjang-2018-31-kasus-leptospirosis-terjadi-di-jakarta-2-orang",
+              "judul": "Sepanjang 2018, 31 Kasus Leptospirosis Terjadi di Jakarta, 2 Orang Meninggal "
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895314/headline-mewaspadai-jejak-kencing-tikus-penyebab-klb-leptospirosis?source=search",
+              "judul": "HEADLINE: Mewaspadai Jejak Kencing Tikus Penyebab KLB Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search",
+              "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search",
+              "judul": "Apa Itu Leptospirosis? Penyakit yang Menghantui saat Musim Hujan"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893686/kasus-leptospirosis-hantui-8-provinsi-di-indonesia?source=search",
+              "judul": "Kasus Leptospirosis Hantui 8 Provinsi di Indonesia"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/844114/mewaspadai-tragedi-leptospirosis",
+              "judul": "Mewaspadai tragedi Leptospirosis "
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/1015778351653388288/status/1096215894013796353",
+              "judul": "Ayoo hidup sehat sobat #Wartabpn , Tag dan Share semoga informasi ini bermanfaat..."
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "116.2049306",
+            "3.0235817"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Maluku",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://medan.kompas.com/read/2019/02/21/16183431/sepanjang-2018-31-kasus-leptospirosis-terjadi-di-jakarta-2-orang",
+              "judul": "Sepanjang 2018, 31 Kasus Leptospirosis Terjadi di Jakarta, 2 Orang Meninggal "
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895314/headline-mewaspadai-jejak-kencing-tikus-penyebab-klb-leptospirosis?source=search",
+              "judul": "HEADLINE: Mewaspadai Jejak Kencing Tikus Penyebab KLB Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search",
+              "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search",
+              "judul": "Apa Itu Leptospirosis? Penyakit yang Menghantui saat Musim Hujan"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893686/kasus-leptospirosis-hantui-8-provinsi-di-indonesia?source=search",
+              "judul": "Kasus Leptospirosis Hantui 8 Provinsi di Indonesia"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/844114/mewaspadai-tragedi-leptospirosis",
+              "judul": "Mewaspadai tragedi Leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "126.656188886953",
+            "-3.4591158"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Jawa Tengah",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://medan.kompas.com/read/2019/02/21/16183431/sepanjang-2018-31-kasus-leptospirosis-terjadi-di-jakarta-2-orang",
+              "judul": "Sepanjang 2018, 31 Kasus Leptospirosis Terjadi di Jakarta, 2 Orang Meninggal "
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/regional/read/3896416/leptospirosis-hantui-banyumas-di-musim-penghujan?source=search",
+              "judul": "Leptospirosis Hantui Banyumas di Musim Penghujan"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895314/headline-mewaspadai-jejak-kencing-tikus-penyebab-klb-leptospirosis?source=search",
+              "judul": "HEADLINE: Mewaspadai Jejak Kencing Tikus Penyebab KLB Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895108/mirip-flu-dan-meningitis-waspadai-gejala-leptospirosis?source=search",
+              "judul": "Mirip Flu dan Meningitis, Waspadai Gejala Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search",
+              "judul": "Apa Itu Leptospirosis? Penyakit yang Menghantui saat Musim Hujan"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893686/kasus-leptospirosis-hantui-8-provinsi-di-indonesia?source=search",
+              "judul": "Kasus Leptospirosis Hantui 8 Provinsi di Indonesia"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/395923/dinas-kesehatan-temukan-5-kasus-leptospirosis",
+              "judul": "Dinas Kesehatan Temukan 5 Kasus Leptospirosis - Berita Utama-Jateng - koran.temp..."
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://nasional.tempo.co/read/218415/semarang-posisi-tertinggi-kasus-leptospirosis-dan-demam-berdarah",
+              "judul": " Semarang Posisi Tertinggi Kasus Leptospirosis dan Demam Berdarah "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/844114/mewaspadai-tragedi-leptospirosis",
+              "judul": "Mewaspadai tragedi Leptospirosis "
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/969150005830344705/status/1096367062174318592",
+              "judul": "#trubusmania Dari 8 Wilayah Penyebaran Leptospirosis, Jateng Peringkat Pertama #..."
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "109.791711",
+            "-7.353747"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Jakarta Pusat",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2008/02/20/21475127/satu.pasien.leptospirosis.meninggal",
+              "judul": "Satu Pasien Leptospirosis Meninggal"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://megapolitan.kompas.com/read/2016/10/19/18514491/selama.2016.hanya.40.penyakit.akibat.tikus.yang.ditemukan.di.jakarta",
+              "judul": "Selama 2016, Hanya 40 Penyakit Akibat Tikus yang Ditemukan di Jakarta"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/95264/lagi-pasien-leptospirosis-meninggal",
+              "judul": "Lagi, Pasien Leptospirosis Meninggal - Metro - koran.tempo.co"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/54879/pasien-leptospirosis-di-rsud-tarakan-mencapai-90-orang",
+              "judul": "Pasien Leptospirosis di RSUD Tarakan Mencapai 90 Orang "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53792/dua-lagi-pasien-leptospirosis-rsud-tarakan-meninggal",
+              "judul": "Dua Lagi Pasien Leptospirosis RSUD Tarakan Meninggal "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.842871536007",
+            "-6.18233995"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Jakarta Barat",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2008/02/20/21475127/satu.pasien.leptospirosis.meninggal",
+              "judul": "Satu Pasien Leptospirosis Meninggal"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://megapolitan.kompas.com/read/2016/10/19/18220301/penyakit.karena.kencing.tikus.terbanyak.ditemukan.di.jakarta.barat",
+              "judul": "Penyakit karena Kencing Tikus Terbanyak Ditemukan di Jakarta Barat"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://ekonomi.kompas.com/read/2015/01/31/100000923/Hati-hati.Terkena.Kencing.Tikus.Saat.Banjir",
+              "judul": "Hati-hati Terkena Kencing Tikus Saat Banjir"
+            },
+            {
+              "nama": "Kompas",
+              "link": "https://megapolitan.kompas.com/read/2016/10/19/18514491/selama.2016.hanya.40.penyakit.akibat.tikus.yang.ditemukan.di.jakarta",
+              "judul": "Selama 2016, Hanya 40 Penyakit Akibat Tikus yang Ditemukan di Jakarta"
+            },
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/kesehatan/2015/02/01/bahaya-kencing-tikus-kalau-bercampur-dengan-genangan-air-hujan",
+              "judul": "Bahaya Kencing Tikus Kalau Bercampur dengan Genangan Air Hujan"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.743891240277",
+            "-6.16156235"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Jakarta Selatan",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://megapolitan.kompas.com/read/2016/10/19/18514491/selama.2016.hanya.40.penyakit.akibat.tikus.yang.ditemukan.di.jakarta",
+              "judul": "Selama 2016, Hanya 40 Penyakit Akibat Tikus yang Ditemukan di Jakarta"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.804863491948",
+            "-6.28381815"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Jakarta Timur",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://megapolitan.kompas.com/read/2016/10/19/18514491/selama.2016.hanya.40.penyakit.akibat.tikus.yang.ditemukan.di.jakarta",
+              "judul": "Selama 2016, Hanya 40 Penyakit Akibat Tikus yang Ditemukan di Jakarta"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.882228946928",
+            "-6.26289085"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Jakarta Utara",
+          "sumber": [
+            {
+              "nama": "Kompas",
+              "link": "https://megapolitan.kompas.com/read/2016/10/19/18514491/selama.2016.hanya.40.penyakit.akibat.tikus.yang.ditemukan.di.jakarta",
+              "judul": "Selama 2016, Hanya 40 Penyakit Akibat Tikus yang Ditemukan di Jakarta"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.900690971145",
+            "-6.1362053"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Pasuruan",
+          "sumber": [
+            {
+              "nama": "Kumparan",
+              "link": "https://kumparan.com/wartabromo/diduga-kena-virus-tikus-bocah-kelas-4-sd-tak-tertolong",
+              "judul": "Diduga Kena Virus Tikus, Bocah Kelas 4 SD Tak Tertolong - kumparan.com"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "112.906694",
+            "-7.6419894"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Malang",
+          "sumber": [
+            {
+              "nama": "Kumparan",
+              "link": "https://kumparan.com/wartabromo/diduga-kena-virus-tikus-bocah-kelas-4-sd-tak-tertolong",
+              "judul": "Diduga Kena Virus Tikus, Bocah Kelas 4 SD Tak Tertolong - kumparan.com"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "http://malang.merdeka.com/gaya-hidup/mengenal-leptospirosis-wabah-yang-gegerkan-lapas-lowokwaru-160719t.html",
+              "judul": "Mengenal Leptospirosis, wabah yang gegerkan Lapas Lowokwaru"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "112.687987213906",
+            "-8.10479815"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Banyumas",
+          "sumber": [
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/regional/read/3896416/leptospirosis-hantui-banyumas-di-musim-penghujan?source=search",
+              "judul": "Leptospirosis Hantui Banyumas di Musim Penghujan"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "109.11674648496",
+            "-7.45507165"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Sumpiuh",
+          "sumber": [
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/regional/read/3896416/leptospirosis-hantui-banyumas-di-musim-penghujan?source=search",
+              "judul": "Leptospirosis Hantui Banyumas di Musim Penghujan"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "109.3597595",
+            "-7.6149185"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Kalimantan Barat",
+          "sumber": [
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/regional/read/3896416/leptospirosis-hantui-banyumas-di-musim-penghujan?source=search",
+              "judul": "Leptospirosis Hantui Banyumas di Musim Penghujan"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "111.0968901",
+            "-0.1322387"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Tarakan",
+          "sumber": [
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3895314/headline-mewaspadai-jejak-kencing-tikus-penyebab-klb-leptospirosis?source=search",
+              "judul": "HEADLINE: Mewaspadai Jejak Kencing Tikus Penyebab KLB Leptospirosis"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893960/apa-itu-leptospirosis-penyakit-yang-menghantui-saat-musim-hujan?source=search",
+              "judul": "Apa Itu Leptospirosis? Penyakit yang Menghantui saat Musim Hujan"
+            },
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/health/read/3893686/kasus-leptospirosis-hantui-8-provinsi-di-indonesia?source=search",
+              "judul": "Kasus Leptospirosis Hantui 8 Provinsi di Indonesia"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/95264/lagi-pasien-leptospirosis-meninggal",
+              "judul": "Lagi, Pasien Leptospirosis Meninggal - Metro - koran.tempo.co"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "117.598628074404",
+            "3.3416343"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Moyudan",
+          "sumber": [
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/regional/read/2982909/hati-hati-leptospirosis-mulai-serang-warga-gunung?source=search",
+              "judul": "Hati-Hati, Leptospirosis Mulai Serang Warga Gunung"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/633381/58-kasus-leptospirosis-terjadi-di-kulon-progo",
+              "judul": "58 kasus leptospirosis terjadi di Kulon Progo "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.246980177815",
+            "-7.77713635"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Girimulyo",
+          "sumber": [
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/regional/read/2982909/hati-hati-leptospirosis-mulai-serang-warga-gunung?source=search",
+              "judul": "Hati-Hati, Leptospirosis Mulai Serang Warga Gunung"
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/633381/58-kasus-leptospirosis-terjadi-di-kulon-progo",
+              "judul": "58 kasus leptospirosis terjadi di Kulon Progo "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.163472272035",
+            "-7.74796415"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Kokap",
+          "sumber": [
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/regional/read/2982909/hati-hati-leptospirosis-mulai-serang-warga-gunung?source=search",
+              "judul": "Hati-Hati, Leptospirosis Mulai Serang Warga Gunung"
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.093259526688",
+            "-7.8276519"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Minggir",
+          "sumber": [
+            {
+              "nama": "Liputan6",
+              "link": "https://www.liputan6.com/regional/read/2982909/hati-hati-leptospirosis-mulai-serang-warga-gunung?source=search",
+              "judul": "Hati-Hati, Leptospirosis Mulai Serang Warga Gunung"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/633381/58-kasus-leptospirosis-terjadi-di-kulon-progo",
+              "judul": "58 kasus leptospirosis terjadi di Kulon Progo "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.250711029921",
+            "-7.7318908"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Nglipar",
+          "sumber": [
+            {
+              "nama": "Medcom",
+              "link": "https://nusantara.medcom.id/jawa-tengah/peristiwa/GNlGpymK-10-warga-gunungkidul-diduga-meninggal-akibat-leptospirosis",
+              "judul": "10 Warga Gunungkidul Diduga Meninggal Akibat Leptospirosis"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/34-warga-gunungkidul-terkena-leptospirosis-1-tewas.html",
+              "judul": "34 Warga Gunungkidul terkena leptospirosis, 1 tewas"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://video.tempo.co/read/6282/sepuluh-warga-gunungkidul-meninggal-karena-leptospirosis",
+              "judul": " Sepuluh Warga Gunungkidul Meninggal Karena Leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.627427671021",
+            "-7.8687997"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Patuk",
+          "sumber": [
+            {
+              "nama": "Medcom",
+              "link": "https://nusantara.medcom.id/jawa-tengah/peristiwa/GNlGpymK-10-warga-gunungkidul-diduga-meninggal-akibat-leptospirosis",
+              "judul": "10 Warga Gunungkidul Diduga Meninggal Akibat Leptospirosis"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/34-warga-gunungkidul-terkena-leptospirosis-1-tewas.html",
+              "judul": "34 Warga Gunungkidul terkena leptospirosis, 1 tewas"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://video.tempo.co/read/6282/sepuluh-warga-gunungkidul-meninggal-karena-leptospirosis",
+              "judul": " Sepuluh Warga Gunungkidul Meninggal Karena Leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.518405151345",
+            "-7.8630335"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Nogosari",
+          "sumber": [
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/lagi-4-warga-boyolali-dicurigai-terkena-leptospirosis.html",
+              "judul": "Lagi, 4 warga Boyolali dicurigai terkena leptospirosis"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/teror-ngeri-kencing-tikus-di-boyolali-ratusan-warga-dites-darah.html",
+              "judul": "Teror ngeri kencing tikus di Boyolali, ratusan warga dites darah"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/5-warga-boyolali-tewas-terserang-penyakit-kencing-tikus.html",
+              "judul": "5 warga Boyolali tewas terserang penyakit kencing tikus"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "113.605146",
+            "-8.2818926"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Ngemplak",
+          "sumber": [
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/lagi-4-warga-boyolali-dicurigai-terkena-leptospirosis.html",
+              "judul": "Lagi, 4 warga Boyolali dicurigai terkena leptospirosis"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/teror-ngeri-kencing-tikus-di-boyolali-ratusan-warga-dites-darah.html",
+              "judul": "Teror ngeri kencing tikus di Boyolali, ratusan warga dites darah"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/5-warga-boyolali-tewas-terserang-penyakit-kencing-tikus.html",
+              "judul": "5 warga Boyolali tewas terserang penyakit kencing tikus"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "111.4557701",
+            "-6.6906875"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Boyolali",
+          "sumber": [
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/lagi-4-warga-boyolali-dicurigai-terkena-leptospirosis.html",
+              "judul": "Lagi, 4 warga Boyolali dicurigai terkena leptospirosis"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/teror-ngeri-kencing-tikus-di-boyolali-ratusan-warga-dites-darah.html",
+              "judul": "Teror ngeri kencing tikus di Boyolali, ratusan warga dites darah"
+            },
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/5-warga-boyolali-tewas-terserang-penyakit-kencing-tikus.html",
+              "judul": "5 warga Boyolali tewas terserang penyakit kencing tikus"
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/906083008486137857/status/968773640123703299",
+              "judul": "Waspadalah,13 Orang Meninggal Sejak 2017, Kasus Leptospirosis di Boyolali Mening..."
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/47596019/status/968677671675748352",
+              "judul": "Penyakit Leptospirosis Renggut Korban Jiwa, Ini Penjelasan Dinkes Boyolali"
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/1377050216/status/968676963522109440",
+              "judul": "Penyakit Kencing Tikus Telan Korban Jiwa, Ini Kata Dinkes Boyolali -Liputan6 Pag..."
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.703869059002",
+            "-7.3872118"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Ngawen",
+          "sumber": [
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/34-warga-gunungkidul-terkena-leptospirosis-1-tewas.html",
+              "judul": "34 Warga Gunungkidul terkena leptospirosis, 1 tewas"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://video.tempo.co/read/6282/sepuluh-warga-gunungkidul-meninggal-karena-leptospirosis",
+              "judul": " Sepuluh Warga Gunungkidul Meninggal Karena Leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.683272427885",
+            "-7.83636495"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Jaten",
+          "sumber": [
+            {
+              "nama": "Merdeka",
+              "link": "https://www.merdeka.com/peristiwa/4-warga-karanganyar-meninggal-akibat-penyakit-kencing-tikus.html",
+              "judul": "4 Warga Karanganyar Meninggal Akibat Penyakit Kencing Tikus"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.9084999",
+            "-7.5731203"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Klaten",
+          "sumber": [
+            {
+              "nama": "Suara",
+              "link": "https://www.suara.com/partner/content/solopos/2018/04/25/011803/leptospirosis-renggut-nyawa-4-warga-klaten",
+              "judul": "Leptospirosis Renggut Nyawa 4 Warga Klaten"
+            },
+            {
+              "nama": "Tempo",
+              "link": "https://nasional.tempo.co/read/218415/semarang-posisi-tertinggi-kasus-leptospirosis-dan-demam-berdarah",
+              "judul": " Semarang Posisi Tertinggi Kasus Leptospirosis dan Demam Berdarah "
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/939047394418626562/status/1067968672105459713",
+              "judul": "66 Kasus Leptospirosis di Klaten, 11 Meninggal Dunia Dinas Kesehatan (Dinkes) Kl..."
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.627278709726",
+            "-7.6749204"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Semanu",
+          "sumber": [
+            {
+              "nama": "Tempo",
+              "link": "https://video.tempo.co/read/6282/sepuluh-warga-gunungkidul-meninggal-karena-leptospirosis",
+              "judul": " Sepuluh Warga Gunungkidul Meninggal Karena Leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.647248253648",
+            "-8.0372779"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Cibodas",
+          "sumber": [
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/156072/lagi-leptospirosis-makan-korban",
+              "judul": "Lagi, Leptospirosis Makan Korban - Metro - koran.tempo.co"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.9363378",
+            "-7.2269348"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Semarang",
+          "sumber": [
+            {
+              "nama": "Tempo",
+              "link": "https://nasional.tempo.co/read/218415/semarang-posisi-tertinggi-kasus-leptospirosis-dan-demam-berdarah",
+              "judul": " Semarang Posisi Tertinggi Kasus Leptospirosis dan Demam Berdarah "
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2013/11/22/warga-semarang-diminta-waspadai-penyakit-kencing-tikus",
+              "judul": "Warga Semarang Diminta Waspadai Penyakit Kencing Tikus"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.4229104",
+            "-6.9903988"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Jepara",
+          "sumber": [
+            {
+              "nama": "Tempo",
+              "link": "https://nasional.tempo.co/read/218415/semarang-posisi-tertinggi-kasus-leptospirosis-dan-demam-berdarah",
+              "judul": " Semarang Posisi Tertinggi Kasus Leptospirosis dan Demam Berdarah "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.783132184189",
+            "-6.59991475"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Magelang",
+          "sumber": [
+            {
+              "nama": "Tempo",
+              "link": "https://nasional.tempo.co/read/218415/semarang-posisi-tertinggi-kasus-leptospirosis-dan-demam-berdarah",
+              "judul": " Semarang Posisi Tertinggi Kasus Leptospirosis dan Demam Berdarah "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.214330308488",
+            "-7.5136132"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Demak",
+          "sumber": [
+            {
+              "nama": "Tempo",
+              "link": "https://nasional.tempo.co/read/218415/semarang-posisi-tertinggi-kasus-leptospirosis-dan-demam-berdarah",
+              "judul": " Semarang Posisi Tertinggi Kasus Leptospirosis dan Demam Berdarah "
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/844114/mewaspadai-tragedi-leptospirosis",
+              "judul": "Mewaspadai tragedi Leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.631643336792",
+            "-6.9230952"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Wates",
+          "sumber": [
+            {
+              "nama": "Tempo",
+              "link": "https://koran.tempo.co/read/228020/kulon-progo-menuju-klb-leptospirosis",
+              "judul": "Kulon Progo Menuju KLB Leptospirosis - Berita Utama-Jateng - koran.tempo.co"
+            },
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.140751998888",
+            "-7.88590185"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Sendang",
+          "sumber": [
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2012/07/18/penyakit-leptospirosis-menyebar-100-tikus-diotopsi",
+              "judul": "PenyaKit Leptospirosis Menyebar, 100 Tikus Diotopsi"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "111.1217471",
+            "-6.9207813"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Gondang",
+          "sumber": [
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2012/07/18/penyakit-leptospirosis-menyebar-100-tikus-diotopsi",
+              "judul": "PenyaKit Leptospirosis Menyebar, 100 Tikus Diotopsi"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "111.1104763",
+            "-7.401795"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Tulungagung",
+          "sumber": [
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2012/07/18/penyakit-leptospirosis-menyebar-100-tikus-diotopsi",
+              "judul": "PenyaKit Leptospirosis Menyebar, 100 Tikus Diotopsi"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "111.899640788807",
+            "-8.07290355"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Nanggulan",
+          "sumber": [
+            {
+              "nama": "Tribun",
+              "link": "https://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            },
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            },
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/633381/58-kasus-leptospirosis-terjadi-di-kulon-progo",
+              "judul": "58 kasus leptospirosis terjadi di Kulon Progo "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.205779016021",
+            "-7.77969935"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Galur",
+          "sumber": [
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.202903645219",
+            "-7.95071885"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Temon",
+          "sumber": [
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.07009015292",
+            "-7.8889586"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Panjatan",
+          "sumber": [
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.150449671042",
+            "-7.9154594"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Pengasih",
+          "sumber": [
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.155721294262",
+            "-7.83011115"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Samigaluh",
+          "sumber": [
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.170351883611",
+            "-7.6824801"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Lendah",
+          "sumber": [
+            {
+              "nama": "Tribun",
+              "link": "http://www.tribunnews.com/regional/2017/03/29/enam-warga-kulonprogo-meninggal-akibat-leptospirosis?page=all",
+              "judul": "Enam Warga Kulonprogo Meninggal Akibat Leptospirosis"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "110.212628",
+            "-7.899503"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Penjaringan",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/53792/dua-lagi-pasien-leptospirosis-rsud-tarakan-meninggal",
+              "judul": "Dua Lagi Pasien Leptospirosis RSUD Tarakan Meninggal "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.767433434329",
+            "-6.11726515"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Jeneponto",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/875001/penyakit-misterius-di-jeneponto-tifoid-dan-leptospirosis",
+              "judul": "Penyakit misterius di Jeneponto tifoid dan leptospirosis "
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/104446991/status/1130353182381490177",
+              "judul": "#MostPopular Terkuak! Penyakit Misterius di Jeneponto Leptospirosis dan Tipes"
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/2698452517/status/1130356307205115904",
+              "judul": "Terkuak! Penyakit Misterius di Jeneponto Leptospirosis dan Tipes"
+            },
+            {
+              "nama": "Twitter",
+              "link": "https://twitter.com/771030588/status/1130329803335393280",
+              "judul": "Sanitasi yang buruk diduga menjadi penyebab utama munculnya serangan penyakit me..."
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "119.5771474",
+            "-5.4931474"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "penyakit": "Leptospirosis",
+          "lokasi": "Bangkala Barat",
+          "sumber": [
+            {
+              "nama": "Antara News",
+              "link": "https://www.antaranews.com/berita/875001/penyakit-misterius-di-jeneponto-tifoid-dan-leptospirosis",
+              "judul": "Penyakit misterius di Jeneponto tifoid dan leptospirosis "
+            }
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "119.5391504",
+            "-5.5612165"
+          ]
+        }
+      }
+    ]
+  }
