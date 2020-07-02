@@ -71,7 +71,7 @@
         "type": "Feature",
         "properties": {
           "penyakit": "Pneumonia",
-          "lokasi": "Dki Jakarta",
+          "lokasi": "DKI Jakarta",
           "sumber": [
             {
               "nama": "Kompas",
@@ -131,32 +131,6 @@
           "coordinates": [
             "112.65611",
             "-7.15389"
-          ]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "penyakit": "Pneumonia",
-          "lokasi": "Denpasar",
-          "sumber": [
-            {
-              "nama": "Kompas",
-              "link": "https://regional.kompas.com/read/2020/03/04/15350481/seorang-warga-suspect-virus-corona-dirawat-rsud-ibnu-sina-sebut-pneumonia",
-              "judul": "Seorang Warga Suspect Virus Corona Dirawat, RSUD Ibnu Sina Sebut Pneumonia"
-            },
-            {
-              "nama": "Suara",
-              "link": "https://www.suara.com/health/2014/07/05/092912/986-balita-bali-terdeteksi-pneumonia",
-              "judul": " 986 Balita Bali Terdeteksi Pneumonia"
-            }
-          ]
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            "115.2191175",
-            "-8.6524973"
           ]
         }
       },
@@ -493,8 +467,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "116.489063",
-            "-8.7693844"
+            "120.50354",
+            "-5.927508"
           ]
         }
       },
@@ -1374,11 +1348,6 @@
             {
               "nama": "Twitter",
               "link": "https://twitter.com/965291142/status/1052797826927865857",
-              "judul": ": PENYALURAN DONASI UNTUK ADIK LATISYA (Penderita Kista, Hernia, Jantung Bocor, ..."
-            },
-            {
-              "nama": "Twitter",
-              "link": "https://twitter.com/965291142/status/1052798476482961414",
               "judul": ": PENYALURAN DONASI UNTUK ADIK LATISYA (Penderita Kista, Hernia, Jantung Bocor, ..."
             }
           ]

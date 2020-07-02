@@ -198,7 +198,7 @@
         "type": "Feature",
         "properties": {
           "penyakit": "Leptospirosis",
-          "lokasi": "Dki Jakarta",
+          "lokasi": "DKI Jakarta",
           "sumber": [
             {
               "nama": "Antara News",
@@ -635,7 +635,7 @@
         "type": "Feature",
         "properties": {
           "penyakit": "Leptospirosis",
-          "lokasi": "Di Yogyakarta",
+          "lokasi": "DI Yogyakarta",
           "sumber": [
             {
               "nama": "Antara News",
@@ -779,8 +779,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "112.1982",
-            "-8.1674"
+            "110.61667",
+            "-7.98333"
           ]
         }
       },
@@ -953,8 +953,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "110.571037812414",
-            "-7.80684405"
+            "113.2394",
+            "-7.1872"
           ]
         }
       },
@@ -1238,11 +1238,6 @@
           "penyakit": "Leptospirosis",
           "lokasi": "Cerme",
           "sumber": [
-            {
-              "nama": "Kompas",
-              "link": "https://regional.kompas.com/read/2019/09/05/15004231/7-orang-meninggal-dunia-akibat-penyakit-kencing-tikus-di-gresik?page=all",
-              "judul": "7 Orang Meninggal Dunia akibat Penyakit 'Kencing Tikus' di Gresik"
-            },
             {
               "nama": "Kompas",
               "link": "https://regional.kompas.com/read/2019/09/05/15004231/7-orang-meninggal-dunia-akibat-penyakit-kencing-tikus-di-gresik",
@@ -1830,11 +1825,6 @@
               "nama": "Liputan6",
               "link": "https://www.liputan6.com/health/read/3893686/kasus-leptospirosis-hantui-8-provinsi-di-indonesia?source=search",
               "judul": "Kasus Leptospirosis Hantui 8 Provinsi di Indonesia"
-            },
-            {
-              "nama": "Tempo",
-              "link": "https://koran.tempo.co/read/95264/lagi-pasien-leptospirosis-meninggal",
-              "judul": "Lagi, Pasien Leptospirosis Meninggal - Metro - koran.tempo.co"
             }
           ]
         },
@@ -2043,8 +2033,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "113.605146",
-            "-8.2818926"
+            "110.75667",
+            "-7.44361"
           ]
         }
       },
@@ -2074,8 +2064,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "111.4557701",
-            "-6.6906875"
+            "110.764948",
+            "-7.508329"
           ]
         }
       },
@@ -2386,8 +2376,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "111.1217471",
-            "-6.9207813"
+            "111.826586",
+            "-7.926385"
           ]
         }
       },
@@ -2407,8 +2397,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "111.1104763",
-            "-7.401795"
+            "111.834306",
+            "-8.069690"
           ]
         }
       },

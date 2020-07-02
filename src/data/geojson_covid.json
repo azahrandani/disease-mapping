@@ -3559,7 +3559,7 @@
         "type": "Feature",
         "properties": {
           "penyakit": "Covid",
-          "lokasi": "Dki Jakarta",
+          "lokasi": "DKI Jakarta",
           "sumber": [
             {
               "nama": "CNN Indonesia",
@@ -7123,8 +7123,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "108.804762191693",
-            "-7.46202885"
+            "109.006841",
+            "-7.736029"
           ]
         }
       },
@@ -7154,8 +7154,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "112.1982",
-            "-8.1674"
+            "110.61667",
+            "-7.98333"
           ]
         }
       },
@@ -7238,8 +7238,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "108.2176285",
-            "-7.3614388"
+            "115.41667",
+            "-2.61667"
           ]
         }
       },
@@ -8442,7 +8442,7 @@
         "type": "Feature",
         "properties": {
           "penyakit": "Covid",
-          "lokasi": "Di Yogyakarta",
+          "lokasi": "DI Yogyakarta",
           "sumber": [
             {
               "nama": "Tirto",
@@ -10291,8 +10291,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "104.361536953743",
-            "-3.3949445"
+            "106.743071",
+            "-6.498155"
           ]
         }
       },
@@ -10484,8 +10484,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "110.525099652014",
-            "-8.02225875"
+            "115.571869",
+            "-8.43432"
           ]
         }
       },

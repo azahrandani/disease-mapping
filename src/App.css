@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Product+Sans');
+
+body {
+  font-family: 'Product Sans', cursive;
+}
+
 h2 {
   text-align: center;
 }
@@ -29,4 +35,16 @@ input {
 
 p {
   text-align: center;
+}
+
+.credits {
+  margin-top: 2vh;
+  text-align: center;
+}
+
+.credits p {
+  width: 80vw;
+  display: inline-block;
+  text-align: center;
+  font-size: small;
 }

@@ -657,27 +657,6 @@
         "type": "Feature",
         "properties": {
           "penyakit": "Rabies",
-          "lokasi": "Gunung Kidul",
-          "sumber": [
-            {
-              "nama": "Antara News",
-              "link": "https://www.antaranews.com/berita/651997/puluhan-ekor-kambing-mati-diserang-hewan-liar",
-              "judul": "Puluhan ekor kambing mati diserang hewan liar "
-            }
-          ]
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            "112.1982",
-            "-8.1674"
-          ]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "penyakit": "Rabies",
           "lokasi": "Purwodadi",
           "sumber": [
             {
@@ -1080,8 +1059,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "110.525099652014",
-            "-8.02225875"
+            "115.571869",
+            "-8.43432"
           ]
         }
       },
@@ -1695,8 +1674,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "105.5640425",
-            "-5.3506944"
+            "114.525651",
+            "-8.308189"
           ]
         }
       },
@@ -2049,8 +2028,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "113.3703238",
-            "-7.1227296"
+            "115.2",
+            "-8.51667"
           ]
         }
       },
@@ -2263,8 +2242,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "128",
-            "-7.416667"
+            "126.610498",
+            "-7.698188"
           ]
         }
       },
@@ -2368,8 +2347,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "110.041592924332",
-            "-7.5440796"
+            "105.0124407",
+            "-5.5301797"
           ]
         }
       },
@@ -2780,8 +2759,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "106.8500581",
-            "-6.2101342"
+            "120.404663",
+            "-8.738507"
           ]
         }
       },
@@ -2862,8 +2841,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "120.3534999",
-            "-8.6935482"
+            "123.55225",
+            "-8.41396"
           ]
         }
       },
@@ -3775,8 +3754,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "101.065283",
-            "-2.179026"
+            "120.556349",
+            "-1.372225"
           ]
         }
       },
@@ -4150,8 +4129,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "111.3807463",
-            "-6.8088301"
+            "115.4216",
+            "-8.5367"
           ]
         }
       },
@@ -4988,8 +4967,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "109.73167",
-            "-7.38417"
+            "112.525383",
+            "-2.046826"
           ]
         }
       },
@@ -5161,8 +5140,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            "106.8453855",
-            "-6.2312983"
+            "103.03333",
+            "-4.35"
           ]
         }
       },

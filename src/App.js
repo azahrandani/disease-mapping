@@ -199,8 +199,6 @@ class App extends Component {
 
   };
 
-  optionDbd = () => '<div>heyy</div>';
-
   render() {
     
     return (
@@ -222,7 +220,13 @@ class App extends Component {
         <div id="mapContainer">
           <div id="map"/>
         </div>
-        <p>by Azahra Putri Andani</p>
+        <p>by <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/azahra-andani/">Azahra Putri Andani</a></p>
+        <div class="credits">
+          <p>
+            Globe icon made by <a target="_blank" rel="noopener noreferrer" href="https://www.flaticon.com/authors/payungkead" title="Payungkead">Payungkead</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> |
+            Pin icons made by <a target="_blank" rel="noopener noreferrer" href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+          </p>
+        </div>
       </div>
     );
   }
