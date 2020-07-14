@@ -7843,32 +7843,6 @@
         "type": "Feature",
         "properties": {
           "penyakit": "Difteri",
-          "lokasi": "Papua",
-          "sumber": [
-            {
-              "nama": "Tribun",
-              "link": "https://www.tribunnews.com/nasional/2017/12/27/pemberian-imunisasi-difteri-sudah-capai-50-persen",
-              "judul": "Pemberian Imunisasi Difteri Sudah Capai 50 Persen"
-            },
-            {
-              "nama": "Antara News",
-              "link": "https://www.antaranews.com/berita/724815/kemenkes-kasus-penyakit-menular-turun",
-              "judul": "Kemenkes: Kasus penyakit menular turun "
-            }
-          ]
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            "137.9966136",
-            "-4.11501855"
-          ]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "penyakit": "Difteri",
           "lokasi": "Balikpapan",
           "sumber": [
             {
