@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, useState, useEffect } from 'react';
 import './App.css';
 import data_dbd from './data/geojson_dbd.json';
 import data_covid from './data/geojson_covid.json';
@@ -14,6 +14,39 @@ import data_filariasis from './data/geojson_filariasis.json';
 
 let L = window.L;
 let map = window.map;
+
+function DiseaseButton(props) {
+  const [isClicked, setIsClicked] = useState(false);
+
+  const buttonStyleClicked = {
+    background: 'rgba(' + props.red + ',' + props.green + ',' + props.blue + ', 0.4)',
+    border: 'none',
+    borderRadius: '5px',
+    cursor: 'pointer',
+    fontSize: '1.2em',
+    padding: '10px' 
+  }
+
+  const onClick = () => {
+    console.log(props.diseaseName + ' was clicked!');
+    setIsClicked(true);
+  }
+
+  const buttonStyle = {
+    background: 'white',
+    border: 'none',
+    borderRadius: '5px',
+    cursor: 'pointer',
+    fontSize: '1.2em',
+    padding: '10px' 
+  }
+
+  return (
+    <div>
+      <button class="disease-button" style={isClicked ? buttonStyleClicked : buttonStyle} onClick={onClick}>{props.diseaseName}</button>
+    </div>
+  );
+};
 
 class App extends Component {
 
@@ -220,7 +253,8 @@ class App extends Component {
         <div id="mapContainer">
           <div id="map"/>
         </div>
-        <p>by <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/azahra-andani/">Azahra Putri Andani</a></p>
+        <p>oleh <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/azahra-andani/">Azahra Putri Andani</a> | azahra.andani[at]gmail.com </p>
+        <p>Data yang ditampilkan di atas bersumber dari dokumen berita dan tweet yang digunakan pada penelitian. Sejauh ini, belum ada update otomatis untuk data yang ditampilkan di atas.</p>
         <div class="credits">
           <p>
             Globe icon made by <a target="_blank" rel="noopener noreferrer" href="https://www.flaticon.com/authors/payungkead" title="Payungkead">Payungkead</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> |
