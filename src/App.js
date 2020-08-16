@@ -1,4 +1,5 @@
 import React, { Component, useState, useEffect } from 'react';
+import { HalfCircleSpinner } from 'react-epic-spinners';
 import './App.css';
 import data_dbd from './data/geojson_dbd.json';
 import data_covid from './data/geojson_covid.json';
@@ -15,6 +16,45 @@ import data_filariasis from './data/geojson_filariasis.json';
 let L = window.L;
 let map = window.map;
 
+const MapComponent = ({isLoading}) => {
+  return (
+    <div id="map-component">
+      <div id="map" style={isLoading ? {visibility: 'hidden'} : {visibility: 'visible'}}/>
+    </div>
+  )
+} 
+
+const LoadingContainer = ({isLoading, diseaseName}) => {
+  var color = "#9D52DF";
+  if (diseaseName === "covid") {
+    color = "#FB5151";
+  } else if (diseaseName === "hepatitis_a") {
+    color = "#00B181";
+  } else if (diseaseName === "hepatitis_b") {
+    color = "#32D552";
+  } else if (diseaseName === "malaria") {
+    color = "#0A74EC";
+  } else if (diseaseName === "difteri") {
+    color = "#FFB324";
+  } else if (diseaseName === "kusta") {
+    color = "#979B9D";
+  } else if (diseaseName === "pneumonia") {
+    color = "#F789EF";
+  } else if (diseaseName === "filariasis") {
+    color = "#000000";
+  } else if (diseaseName === "rabies") {
+    color = "#B3720C";
+  } else if (diseaseName === "leptospirosis") {
+    color = "#1A1A96";
+  }
+  
+  return (
+    <div id="loading-container" style={isLoading ? {display: 'block'} : {display: 'none'}}>
+      <HalfCircleSpinner color={color}/>
+    </div>
+  )
+}
+
 const DiseaseButton = ({active, diseaseName, diseaseText, diseaseButtonClickHandle, color}) => {
   const backgroundColorPassive = {
     backgroundColor : 'white'
@@ -27,37 +67,21 @@ const DiseaseButton = ({active, diseaseName, diseaseText, diseaseButtonClickHand
   )
 }
 
-class App extends Component {
+function App() {
 
-  constructor() {
-    super();
-    this.state = {
-      selectedDisease: "dbd"
-    };
-    this.onChangeValue = this.onChangeValue.bind(this);
-  }
+  const [selectedDisease, setSelectedDisease] = useState("dbd");
+  const [isLoading, setIsLoading] = useState(false);
 
-  setSelectedDisease = (diseaseName) => {
-    this.setState({selectedDisease: diseaseName});
-    this.initializeMap(diseaseName);
+  function diseaseClicked (diseaseName) {
+    setSelectedDisease(diseaseName);
+    setIsLoading(true);
     console.log(diseaseName);
     console.log("uhuy");
   }
 
-  onChangeValue(event) {
-    console.log(event.target.value);
-    this.setState({selectedDisease: event.target.value});
-    console.log(this.state.selectedDisease);
-    this.initializeMap(event.target.value);
-  }
+  const hovering = false;
 
-  hovering = false
-
-  componentDidMount() {
-    this.initializeMap(this.state.selectedDisease);
-  }
-
-  initializeMap = (disease) => {
+  const initializeMap = (disease) => {
 
     var positionCenter = L.latLng(-1.637444, 117.286060);
 
@@ -90,7 +114,17 @@ class App extends Component {
       var geojsonFeatures = data_leptospirosis['data'];
     } else if (disease === 'kusta') {
       var geojsonFeatures = data_kusta['data'];
-    } 
+    }
+
+    var ACCESS_TOKEN = 'pk.eyJ1IjoiYXphaHJhbmRhbmkiLCJhIjoiY2tiYTRydGl5MGNiZDJ4cWtsN2c3c2tpNCJ9.5LzhinKOZhxMZgSd7-eOag'
+    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        maxZoom: 18,
+        id: 'mapbox/streets-v11',
+        tileSize: 512,
+        zoomOffset: -1,
+        accessToken: ACCESS_TOKEN,
+    }).addTo(map);
     
     var layerGroup = L.geoJSON(geojsonFeatures, {
       pointToLayer: function(feature, latlng) {
@@ -206,37 +240,33 @@ class App extends Component {
       }
     }).addTo(map);
 
-    var ACCESS_TOKEN = 'pk.eyJ1IjoiYXphaHJhbmRhbmkiLCJhIjoiY2tiYTRydGl5MGNiZDJ4cWtsN2c3c2tpNCJ9.5LzhinKOZhxMZgSd7-eOag'
-    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-        maxZoom: 18,
-        id: 'mapbox/streets-v11',
-        tileSize: 512,
-        zoomOffset: -1,
-        accessToken: ACCESS_TOKEN,
-    }).addTo(map);
-
+    setTimeout(() => setIsLoading(false), 100);
   };
 
-  render() {
+  useEffect(() => {
+    initializeMap(selectedDisease);
+  });
+
+  // render() {
     return (
       <div> 
         <h2>Peta Persebaran Penyakit di Indonesia</h2>
-        <div onChange={this.onChangeValue} id="radioButtonGroup">
-          <DiseaseButton active={this.state.selectedDisease == "dbd"} diseaseName="dbd" diseaseText="DBD" color="#D8BAF2" diseaseButtonClickHandle={this.setSelectedDisease}/>
-          <DiseaseButton active={this.state.selectedDisease == "covid"} diseaseName="covid" diseaseText="Covid-19" color="#FDB9B9" diseaseButtonClickHandle={this.setSelectedDisease}/>
-          <DiseaseButton active={this.state.selectedDisease == "hepatitis_a"} diseaseName="hepatitis_a" diseaseText="Hepatitis A" color="#99E0CD" diseaseButtonClickHandle={this.setSelectedDisease}/>
-          <DiseaseButton active={this.state.selectedDisease == "hepatitis_b"} diseaseName="hepatitis_b" diseaseText="Hepatitis B" color="#ADEEBA" diseaseButtonClickHandle={this.setSelectedDisease}/>
-          <DiseaseButton active={this.state.selectedDisease == "malaria"} diseaseName="malaria" diseaseText="Malaria" color="#9DC7F7" diseaseButtonClickHandle={this.setSelectedDisease}/>
-          <DiseaseButton active={this.state.selectedDisease == "difteri"} diseaseName="difteri" diseaseText="Difteri" color="#FFE1A7" diseaseButtonClickHandle={this.setSelectedDisease}/>
-          <DiseaseButton active={this.state.selectedDisease == "kusta"} diseaseName="kusta" diseaseText="Kusta" color="#D5D7D8" diseaseButtonClickHandle={this.setSelectedDisease}/>
-          <DiseaseButton active={this.state.selectedDisease == "pneumonia"} diseaseName="pneumonia" diseaseText="Pneumonia" color="#FCD0F9" diseaseButtonClickHandle={this.setSelectedDisease}/>
-          <DiseaseButton active={this.state.selectedDisease == "filariasis"} diseaseName="filariasis" diseaseText="Filariasis" color="#999999" diseaseButtonClickHandle={this.setSelectedDisease}/>
-          <DiseaseButton active={this.state.selectedDisease == "rabies"} diseaseName="rabies" diseaseText="Rabies" color="#E1C79E" diseaseButtonClickHandle={this.setSelectedDisease}/>
-          <DiseaseButton active={this.state.selectedDisease == "leptospirosis"} diseaseName="leptospirosis" diseaseText="Leptospirosis" color="#A3A3D5" diseaseButtonClickHandle={this.setSelectedDisease}/>
+        <div id="radioButtonGroup">
+          <DiseaseButton active={selectedDisease === "dbd"} diseaseName="dbd" diseaseText="DBD" color="#D8BAF2" diseaseButtonClickHandle={diseaseClicked}/>
+          <DiseaseButton active={selectedDisease === "covid"} diseaseName="covid" diseaseText="Covid-19" color="#FDB9B9" diseaseButtonClickHandle={diseaseClicked}/>
+          <DiseaseButton active={selectedDisease === "hepatitis_a"} diseaseName="hepatitis_a" diseaseText="Hepatitis A" color="#99E0CD" diseaseButtonClickHandle={diseaseClicked}/>
+          <DiseaseButton active={selectedDisease === "hepatitis_b"} diseaseName="hepatitis_b" diseaseText="Hepatitis B" color="#ADEEBA" diseaseButtonClickHandle={diseaseClicked}/>
+          <DiseaseButton active={selectedDisease === "malaria"} diseaseName="malaria" diseaseText="Malaria" color="#9DC7F7" diseaseButtonClickHandle={diseaseClicked}/>
+          <DiseaseButton active={selectedDisease === "difteri"} diseaseName="difteri" diseaseText="Difteri" color="#FFE1A7" diseaseButtonClickHandle={diseaseClicked}/>
+          <DiseaseButton active={selectedDisease === "kusta"} diseaseName="kusta" diseaseText="Kusta" color="#D5D7D8" diseaseButtonClickHandle={diseaseClicked}/>
+          <DiseaseButton active={selectedDisease ==="pneumonia"} diseaseName="pneumonia" diseaseText="Pneumonia" color="#FCD0F9" diseaseButtonClickHandle={diseaseClicked}/>
+          <DiseaseButton active={selectedDisease === "filariasis"} diseaseName="filariasis" diseaseText="Filariasis" color="#999999" diseaseButtonClickHandle={diseaseClicked}/>
+          <DiseaseButton active={selectedDisease === "rabies"} diseaseName="rabies" diseaseText="Rabies" color="#E1C79E" diseaseButtonClickHandle={diseaseClicked}/>
+          <DiseaseButton active={selectedDisease === "leptospirosis"} diseaseName="leptospirosis" diseaseText="Leptospirosis" color="#A3A3D5" diseaseButtonClickHandle={diseaseClicked}/>
         </div>
+        <LoadingContainer isLoading={isLoading} diseaseName={selectedDisease} />
         <div id="mapContainer">
-          <div id="map"/>
+          <MapComponent isLoading={isLoading}/>
         </div>
         <p>oleh <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/azahra-andani/">Azahra Putri Andani</a> | azahra.andani[at]gmail.com </p>
         <p>Data yang ditampilkan di atas bersumber dari dokumen berita dan tweet yang digunakan pada penelitian. Sejauh ini, belum ada update otomatis untuk data yang ditampilkan di atas.</p>
@@ -248,7 +278,7 @@ class App extends Component {
         </div>
       </div>
     );
-  }
+  // }
 }
 
 export default App;
