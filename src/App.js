@@ -50,7 +50,9 @@ const LoadingContainer = ({isLoading, diseaseName}) => {
   
   return (
     <div id="loading-container" style={isLoading ? {display: 'block'} : {display: 'none'}}>
-      <HalfCircleSpinner color={color}/>
+      <div id="loading-container-child">
+        <HalfCircleSpinner color={color}/>
+      </div>
     </div>
   )
 }

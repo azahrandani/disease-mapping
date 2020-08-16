@@ -81,7 +81,11 @@ p {
 }
 
 #loading-container {
-  top: 30%;
-  left: 50%;
-  position: fixed;
+  text-align: center;
 }
+
+#loading-container-child {
+  margin-top: 4em;
+  display: inline-block;
+}
+
