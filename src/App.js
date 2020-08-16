@@ -15,38 +15,17 @@ import data_filariasis from './data/geojson_filariasis.json';
 let L = window.L;
 let map = window.map;
 
-function DiseaseButton(props) {
-  const [isClicked, setIsClicked] = useState(false);
-
-  const buttonStyleClicked = {
-    background: 'rgba(' + props.red + ',' + props.green + ',' + props.blue + ', 0.4)',
-    border: 'none',
-    borderRadius: '5px',
-    cursor: 'pointer',
-    fontSize: '1.2em',
-    padding: '10px' 
-  }
-
-  const onClick = () => {
-    console.log(props.diseaseName + ' was clicked!');
-    setIsClicked(true);
-  }
-
-  const buttonStyle = {
-    background: 'white',
-    border: 'none',
-    borderRadius: '5px',
-    cursor: 'pointer',
-    fontSize: '1.2em',
-    padding: '10px' 
+const DiseaseButton = ({active, diseaseName, diseaseText, diseaseButtonClickHandle, color}) => {
+  const backgroundColorPassive = {
+    backgroundColor : 'white'
   }
 
   return (
-    <div>
-      <button class="disease-button" style={isClicked ? buttonStyleClicked : buttonStyle} onClick={onClick}>{props.diseaseName}</button>
-    </div>
-  );
-};
+    <button onClick={() => diseaseButtonClickHandle(diseaseName)} class={active ? 'disease-button-active' : 'disease-button-passive'} style={active ? {backgroundColor: color} : backgroundColorPassive}>
+      {diseaseText}
+    </button>
+  )
+}
 
 class App extends Component {
 
@@ -56,6 +35,13 @@ class App extends Component {
       selectedDisease: "dbd"
     };
     this.onChangeValue = this.onChangeValue.bind(this);
+  }
+
+  setSelectedDisease = (diseaseName) => {
+    this.setState({selectedDisease: diseaseName});
+    this.initializeMap(diseaseName);
+    console.log(diseaseName);
+    console.log("uhuy");
   }
 
   onChangeValue(event) {
@@ -233,22 +219,21 @@ class App extends Component {
   };
 
   render() {
-    
     return (
       <div> 
         <h2>Peta Persebaran Penyakit di Indonesia</h2>
         <div onChange={this.onChangeValue} id="radioButtonGroup">
-          <input type="radio" value="dbd" name="disease" checked={this.state.selectedDisease === "dbd"} /> DBD
-          <input type="radio" value="covid" name="disease" checked={this.state.selectedDisease === "covid"}/> Covid
-          <input type="radio" value="hepatitis_a" name="disease" checked={this.state.selectedDisease === "hepatitis_a"} /> Hepatitis A
-          <input type="radio" value="hepatitis_b" name="disease" checked={this.state.selectedDisease === "hepatitis_b"}/> Hepatitis B
-          <input type="radio" value="malaria" name="disease" checked={this.state.selectedDisease === "malaria"}/> Malaria
-          <input type="radio" value="difteri" name="disease" checked={this.state.selectedDisease === "difteri"} /> Difteri
-          <input type="radio" value="kusta" name="disease" checked={this.state.selectedDisease === "kusta"}/> Kusta
-          <input type="radio" value="pneumonia" name="disease" checked={this.state.selectedDisease === "pneumonia"}/> Pneumonia
-          <input type="radio" value="filariasis" name="disease" checked={this.state.selectedDisease === "filariasis"}/> Filariasis
-          <input type="radio" value="rabies" name="disease" checked={this.state.selectedDisease === "rabies"} /> Rabies
-          <input type="radio" value="leptospirosis" name="disease" checked={this.state.selectedDisease === "leptospirosis"}/> Leptospirosis
+          <DiseaseButton active={this.state.selectedDisease == "dbd"} diseaseName="dbd" diseaseText="DBD" color="#D8BAF2" diseaseButtonClickHandle={this.setSelectedDisease}/>
+          <DiseaseButton active={this.state.selectedDisease == "covid"} diseaseName="covid" diseaseText="Covid-19" color="#FDB9B9" diseaseButtonClickHandle={this.setSelectedDisease}/>
+          <DiseaseButton active={this.state.selectedDisease == "hepatitis_a"} diseaseName="hepatitis_a" diseaseText="Hepatitis A" color="#99E0CD" diseaseButtonClickHandle={this.setSelectedDisease}/>
+          <DiseaseButton active={this.state.selectedDisease == "hepatitis_b"} diseaseName="hepatitis_b" diseaseText="Hepatitis B" color="#ADEEBA" diseaseButtonClickHandle={this.setSelectedDisease}/>
+          <DiseaseButton active={this.state.selectedDisease == "malaria"} diseaseName="malaria" diseaseText="Malaria" color="#9DC7F7" diseaseButtonClickHandle={this.setSelectedDisease}/>
+          <DiseaseButton active={this.state.selectedDisease == "difteri"} diseaseName="difteri" diseaseText="Difteri" color="#FFE1A7" diseaseButtonClickHandle={this.setSelectedDisease}/>
+          <DiseaseButton active={this.state.selectedDisease == "kusta"} diseaseName="kusta" diseaseText="Kusta" color="#D5D7D8" diseaseButtonClickHandle={this.setSelectedDisease}/>
+          <DiseaseButton active={this.state.selectedDisease == "pneumonia"} diseaseName="pneumonia" diseaseText="Pneumonia" color="#FCD0F9" diseaseButtonClickHandle={this.setSelectedDisease}/>
+          <DiseaseButton active={this.state.selectedDisease == "filariasis"} diseaseName="filariasis" diseaseText="Filariasis" color="#999999" diseaseButtonClickHandle={this.setSelectedDisease}/>
+          <DiseaseButton active={this.state.selectedDisease == "rabies"} diseaseName="rabies" diseaseText="Rabies" color="#E1C79E" diseaseButtonClickHandle={this.setSelectedDisease}/>
+          <DiseaseButton active={this.state.selectedDisease == "leptospirosis"} diseaseName="leptospirosis" diseaseText="Leptospirosis" color="#A3A3D5" diseaseButtonClickHandle={this.setSelectedDisease}/>
         </div>
         <div id="mapContainer">
           <div id="map"/>

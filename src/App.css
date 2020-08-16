@@ -29,6 +29,10 @@ h2 {
   text-align: center;
 }
 
+button {
+  font-family: 'Product Sans', cursive;
+}
+
 input {
   cursor: pointer;
 }
@@ -47,4 +51,31 @@ p {
   display: inline-block;
   text-align: center;
   font-size: small;
+}
+
+.button-group {
+  display: flex;
+}
+
+.disease-button-passive {
+  border: none;
+  background-color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.2em;
+  padding: 10px;
+  outline: 0;
+}
+
+.disease-button-passive:hover {
+  color: #9E9E9E;
+}
+
+.disease-button-active {
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.2em;
+  padding: 10px;
+  outline: 0;
 }
