@@ -77,8 +77,6 @@ function App() {
   function diseaseClicked (diseaseName) {
     setSelectedDisease(diseaseName);
     setIsLoading(true);
-    console.log(diseaseName);
-    console.log("uhuy");
   }
 
   const hovering = false;
